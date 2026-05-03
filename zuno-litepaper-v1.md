@@ -1,5 +1,7 @@
 # Zuno Network — Litepaper
 
+Improved AI Accuracy, Powered by People and Decentralized Compute
+
 ---
 
 ## 1. Introduction
