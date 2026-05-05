@@ -2,7 +2,7 @@
 
 **Improved AI Accuracy, Powered by People and Decentralized Compute**
 
-**The Problem: AI is smart, but it frequency makes mistakes.**
+**The Problem: AI is smart, but it frequently makes mistakes.**
 
 AI often gives answers that look correct but aren't. These "hallucinations" make it hard to rely on AI for important tasks and have liability risks. Fixing these mistakes is expensive and mostly controlled by a few large companies, leaving everyone else out of the process.
 
@@ -31,7 +31,7 @@ When you take part, you earn Zuno tokens on the Solana blockchain as a reward fo
 1. **Distribute** — AI training tasks are broken into small pieces and sent to the Zuno app
 2. **Validate** — RLHF App Workers pick the most accurate AI response for each task
 3. **Compute** — GPU Workers provide inference power and are rewarded for uptime and reliability
-4. **Reward** — Completed tasks release ZUNO from the Community Treasury to contributors
+4. **Reward** — Completed tasks earn points (pre-mine) or ZUNO tokens (mainnet) from the Community Treasury
 5. **Improve** — Verified outputs feed back into AI training, raising accuracy over time
 
 ---
@@ -52,8 +52,8 @@ When you take part, you earn Zuno tokens on the Solana blockchain as a reward fo
 
 ## Current Phase
 
-**Phase 0 — Private Beta**
-The Android app is being tested privately. RLHF App Worker workflows and the Zuno API task pipeline are being validated before the 30-day public pre-mine begins.
+**Phase 0 — Private Beta Testing**
+The Android app is being tested privately. RLHF App Worker workflows and the Zuno API task pipeline are being validated before the public pre-mine begins. During the pre-mine, contributors earn points (not tokens) — 1 task = 1 point, max 10 per day. Points convert to ZUNO at 1:1 via airdrop at TGE.
 
 ---
 
