@@ -180,6 +180,17 @@ Earned for completing human‑feedback tasks:
 
 Rewards scale with task volume and difficulty.
 
+**Task Reward Rate**
+
+| Phase | Reward per Task | Daily Maximum | Notes |
+|---|---|---|---|
+| Pre‑mine | 1 point | 10 points/day | Points tracked in Zuno backend, not on‑chain |
+| Mainnet | 1 ZUNO | 10 ZUNO/day | Tokens distributed from Community Treasury |
+
+- Points convert to ZUNO at a 1:1 ratio at TGE
+- Rewards are earned through completed RLHF tasks only
+- No rewards are given for holding, staking, or purchasing tokens
+
 **2. GPU Worker Rewards**  
 Earned for:
 - Providing compute
