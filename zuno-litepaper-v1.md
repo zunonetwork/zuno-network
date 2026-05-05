@@ -4,9 +4,63 @@ Improved AI Accuracy, Powered by People and Decentralized Compute
 
 ---
 
+## Table of Contents
+
+1. [Introduction](#1-introduction)
+2. [How it Works](#2-how-it-works)
+3. [Tokenomics](#3-tokenomics)
+   - [3.1 Token Allocation](#31-token-allocation)
+   - [3.2 Fair‑Launch Principles](#32-fairlaunch-principles)
+   - [3.3 Emissions Model](#33-emissions-model)
+   - [3.4 Long‑Term Sustainability](#34-longterm-sustainability)
+4. [Reward Emissions](#4-reward-emissions)
+   - [4.1 Overview](#41-overview)
+   - [4.2 Reward Types](#42-reward-types)
+   - [4.3 Emission Structure](#43-emission-structure)
+   - [4.4 Distribution Flow](#44-distribution-flow)
+   - [4.5 Sustainability](#45-sustainability)
+5. [Pre‑Mine](#5-premine)
+   - [5.1 Purpose](#51-purpose)
+   - [5.2 Points System](#52-points-system)
+   - [5.3 Wallet Linking Requirement](#53-wallet-linking-requirement)
+   - [5.4 Snapshot Date](#54-snapshot-date)
+   - [5.5 Token Generating Event (TGE) and Airdrop](#55-token-generating-event-tge-and-airdrop)
+   - [5.6 Supply at Launch](#56-supply-at-launch)
+   - [5.7 Transition to Public Trading](#57-transition-to-public-trading)
+6. [Launch Plan](#6-launch-plan)
+   - [6.1 Overview](#61-overview)
+   - [6.2 Phase 0 — Private Beta Testing](#62-phase-0--private-beta-testing-current-phase)
+   - [6.3 Phase 1 — 30‑Day Pre‑Mine](#63-phase-1--30day-premine)
+   - [6.4 Phase 2 — App Scaling](#64-phase-2--app-scaling)
+   - [6.5 Phase 3 — Liquidity Deployment](#65-phase-3--liquidity-deployment)
+   - [6.6 Phase 4 — Public Trading Opens](#66-phase-4--public-trading-opens)
+   - [6.7 Phase 5 — GPU Worker Rewards Activate](#67-phase-5--gpu-worker-rewards-activate)
+   - [6.8 Phase 6 — First 30 Days After Launch](#68-phase-6--first-30-days-after-launch)
+7. [Security & Transparency](#7-security--transparency)
+   - [7.1 Security Principles](#71-security-principles)
+   - [7.2 RLHF App Worker Security](#72-rlhf-app-worker-security)
+   - [7.3 GPU Worker Security](#73-gpu-worker-security)
+   - [7.4 Data Integrity & Consensus](#74-data-integrity--consensus)
+   - [7.5 Transparency Commitments](#75-transparency-commitments)
+   - [7.6 No Insider Advantage](#76-no-insider-advantage)
+   - [7.7 Continuous Monitoring](#77-continuous-monitoring)
+8. [Roadmap](#8-roadmap)
+   - [8.1 Phase 0 — Private Beta](#81-phase-0--private-beta-current-phase)
+   - [8.2 Phase 1 — 30‑Day Pre‑Mine](#82-phase-1--30day-premine)
+   - [8.3 Phase 2 — Liquidity & Launch](#83-phase-2--liquidity--launch)
+   - [8.4 Phase 3 — GPU Network Activation](#84-phase-3--gpu-network-activation)
+   - [8.5 Phase 4 — Mainnet Systems](#85-phase-4--mainnet-systems)
+   - [8.6 Phase 5 — Expansion](#86-phase-5--expansion)
+   - [8.7 Phase 6 — AI Infrastructure](#87-phase-6--ai-infrastructure)
+   - [8.8 Future — Zuno AI](#88-future--zuno-ai)
+9. [About the Founder](#9-about-the-founder)
+10. [Conclusion](#10-conclusion)
+
+---
+
 ## 1. Introduction
 
-**The Problem:** AI is smart, but it isn't always right.
+**The Problem:** AI is smart, but it frequently makes mistakes.
 
 AI often gives answers that look correct but aren't. These "hallucinations" make it hard to rely on AI for important tasks and have liability risks. Fixing these mistakes is expensive and mostly controlled by a few large companies, leaving everyone else out of the process.
 
