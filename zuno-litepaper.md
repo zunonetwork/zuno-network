@@ -29,30 +29,26 @@ Improved AI Accuracy, Powered by People and Decentralized Compute
    - [5.7 Transition to Public Trading](#57-transition-to-public-trading)
 6. [Launch Plan](#6-launch-plan)
    - [6.1 Overview](#61-overview)
-   - [6.2 Phase 0 — Private Beta Testing](#62-phase-0--private-beta-testing-current-phase)
-   - [6.3 Phase 1 — 30‑Day Pre‑Mine](#63-phase-1--30day-premine)
-   - [6.4 Phase 2 — App Scaling](#64-phase-2--app-scaling)
-   - [6.5 Phase 3 — Liquidity Deployment](#65-phase-3--liquidity-deployment)
-   - [6.6 Phase 4 — Public Trading Opens](#66-phase-4--public-trading-opens)
-   - [6.7 Phase 5 — GPU Worker Rewards Activate](#67-phase-5--gpu-worker-rewards-activate)
-   - [6.8 Phase 6 — First 30 Days After Launch](#68-phase-6--first-30-days-after-launch)
-7. [Security & Transparency](#7-security--transparency)
-   - [7.1 Security Principles](#71-security-principles)
-   - [7.2 RLHF App Worker Security](#72-rlhf-app-worker-security)
-   - [7.3 GPU Worker Security](#73-gpu-worker-security)
-   - [7.4 Data Integrity & Consensus](#74-data-integrity--consensus)
-   - [7.5 Transparency Commitments](#75-transparency-commitments)
-   - [7.6 No Insider Advantage](#76-no-insider-advantage)
-   - [7.7 Continuous Monitoring](#77-continuous-monitoring)
-8. [Roadmap](#8-roadmap)
-   - [8.1 Phase 0 — Private Beta](#81-phase-0--private-beta-current-phase)
-   - [8.2 Phase 1 — 30‑Day Pre‑Mine](#82-phase-1--30day-premine)
-   - [8.3 Phase 2 — Liquidity & Launch](#83-phase-2--liquidity--launch)
-   - [8.4 Phase 3 — GPU Network Activation](#84-phase-3--gpu-network-activation)
-   - [8.5 Phase 4 — Mainnet Systems](#85-phase-4--mainnet-systems)
-   - [8.6 Phase 5 — Expansion](#86-phase-5--expansion)
-   - [8.7 Phase 6 — AI Infrastructure](#87-phase-6--ai-infrastructure)
-   - [8.8 Future — Zuno AI](#88-future--zuno-ai)
+   - [6.2 Phase 0 — Private Beta Testing](#62-phase-0--private-beta-testing)
+   - [6.3 Phase 1 — Pre-mine (Zuno Points Earning Period)](#63-phase-1--pre-mine-zuno-points-earning-period)
+   - [6.4 Phase 2 — Community Growth](#64-phase-2--community-growth)
+   - [6.5 Phase 3 — Liquidity Launch](#65-phase-3--liquidity-launch)
+   - [6.6 Phase 4 — Token Goes Live (Mainnet)](#66-phase-4--token-goes-live-mainnet)
+   - [6.7 Phase 5 — GPU Network Launch](#67-phase-5--gpu-network-launch)
+   - [6.8 Phase 6 — Post Launch Growth](#68-phase-6--post-launch-growth)
+   - [6.9 Phase 7 — Enterprise & Governance](#69-phase-7--enterprise--governance)
+   - [6.10 Phase 8 — Global Expansion](#610-phase-8--global-expansion)
+   - [6.11 Phase 9 — AI Infrastructure](#611-phase-9--ai-infrastructure)
+   - [6.12 Phase 10 — Zuno AI](#612-phase-10--zuno-ai)
+7. [Roadmap](#7-roadmap)
+8. [Security & Transparency](#8-security--transparency)
+   - [8.1 Security Principles](#81-security-principles)
+   - [8.2 RLHF App Worker Security](#82-rlhf-app-worker-security)
+   - [8.3 GPU Worker Security](#83-gpu-worker-security)
+   - [8.4 Data Integrity & Consensus](#84-data-integrity--consensus)
+   - [8.5 Transparency Commitments](#85-transparency-commitments)
+   - [8.6 No Insider Advantage](#86-no-insider-advantage)
+   - [8.7 Continuous Monitoring](#87-continuous-monitoring)
 9. [Governance](#9-governance)
    - [9.1 Overview](#91-overview)
    - [9.2 What Token Holders Vote On](#92-what-token-holders-vote-on)
@@ -95,14 +91,6 @@ For every task you complete, you earn Zuno tokens on the Solana blockchain. Sola
 ### 4. Precision AI Software
 Your corrections help create higher‑quality training data. Over time, this produces more accurate AI models built on community‑verified input.
 
-
----
-
-## 3. Tokenomics
-
-**ZUNO is a fair‑launch token on Solana with no presale, no insider allocation, and no team tokens. Every token enters circulation through real contribution — either by earning points during the pre‑mine phase (redeemed via airdrop at TGE) or by operating a GPU Worker (a home PC running the Zuno GPU container).** This ensures supply is earned through work, not financial advantage, and that early participants and long‑term contributors are rewarded fairly.
-
-ZUNO powers the network's incentive model, governance, and long‑term sustainability. During the pre‑mine phase, participants accumulate points by validating AI Q/A pairs through the Zuno PWA. At the Token Generating Event (TGE), points convert to ZUNO at a 1:1 ratio via airdrop. After TGE, GPU Workers earn ZUNO directly for compute contribution.
 
 ---
 
@@ -290,15 +278,7 @@ After this point:
 ## 6. Launch Plan
 
 ### 6.1 Overview
-Zuno launches through a staged, transparent rollout designed for fairness, stability, and real network participation:
-
-0. **Private Beta Testing (Android App)**
-1. **30‑Day Pre‑Mine (RLHF App Workers only)**
-2. **App scaling + RLHF App Worker growth**
-3. **Liquidity deployment on Raydium**
-4. **Public trading opens**
-5. **GPU Worker Docker release + compute rewards activate**
-6. **Network expansion (first 30 days post‑launch)**
+Zuno launches through a staged, transparent rollout designed for fairness, stability, and real network participation. The full sequence runs from private beta through to a global AI infrastructure network.
 
 No presale.  
 No insiders.  
@@ -307,8 +287,7 @@ No whales.
 
 ---
 
-### 6.2 Phase 0 — Private Beta Testing (Current Phase)
-This is the phase underway right now.
+### 6.2 Phase 0 — Private Beta Testing
 
 - Android App tested privately with a small group
 - RLHF App Worker workflow validated end‑to‑end
@@ -318,12 +297,11 @@ This is the phase underway right now.
 - UI/UX refined based on tester feedback
 - No emissions, no rewards, no token activity
 
-**Purpose:** Ensure the RLHF App Worker experience and the Zuno API task pipeline are stable before the 30‑day pre‑mine begins.
+**Purpose:** Ensure the RLHF App Worker experience and the Zuno API task pipeline are stable before the pre‑mine begins.
 
 ---
 
-### 6.3 Phase 1 — 30‑Day Pre‑Mine
-After Phase 0 is complete, the public pre‑mine begins.
+### 6.3 Phase 1 — Pre-mine (Zuno Points Earning Period)
 
 - RLHF App Workers download the public Zuno PWA
 - Validate AI Q and A tasks and earn **points** (not ZUNO tokens)
@@ -342,21 +320,20 @@ After Phase 0 is complete, the public pre‑mine begins.
 
 ---
 
-### 6.4 Phase 2 — App Scaling
-Throughout the 30‑day pre‑mine:
+### 6.4 Phase 2 — Community Growth
 
-- RLHF App Worker count grows
+- RLHF App Worker count grows throughout the pre‑mine period
 - Task throughput increases
 - Emissions scale with real activity
 - App stability improves across devices
 - Community forms around real participation
+- Transparency dashboards activated
 
 **Purpose:** Reach a healthy RLHF App Worker base before liquidity deployment.
 
 ---
 
-### 6.5 Phase 3 — Liquidity Deployment
-At the end of the 30‑day pre‑mine:
+### 6.5 Phase 3 — Liquidity Launch
 
 - Deploy Raydium liquidity pool
 - Pair **1,000,000 ZUNO** with **$1,000–$10,000 SOL**
@@ -367,35 +344,36 @@ At the end of the 30‑day pre‑mine:
 
 ---
 
-### 6.6 Phase 4 — Public Trading Opens
-Once liquidity is live:
+### 6.6 Phase 4 — Token Goes Live (Mainnet)
 
 - ZUNO becomes tradable
-- Pre‑mine tokens enter circulation
+- Pre‑mine tokens enter circulation via TGE airdrop
 - Everyone enters at the same price
 - No presale, no private buyers, no team allocation
+- On‑chain ZUNO reward claiming activated
+- Governance framework introduced
+- Public enterprise API access opens
 
-**Purpose:** Enable open market discovery without insider distortion.
+**Purpose:** Enable open market discovery without insider distortion and transition to full mainnet operations.
 
 ---
 
-### 6.7 Phase 5 — GPU Worker Rewards Activate
-After public trading opens, the compute layer of Zuno comes online.
+### 6.7 Phase 5 — GPU Network Launch
 
-- GPU Worker Docker container software is released publicly
+- GPU Worker Docker container software released publicly
 - Home GPUs can run the Zuno Worker container
 - GPU Workers begin receiving compute‑based ZUNO rewards
 - RLHF App Workers continue earning normally
 - Emissions remain task‑based and usage‑driven
 - Benchmarking and uptime scoring begin for all GPU Workers
+- Consensus validation across GPU Workers
 - No CPU support in this phase
 
 **Purpose:** Activate decentralized GPU compute and reward operators for providing inference power.
 
 ---
 
-### 6.8 Phase 6 — First 30 Days After Launch
-Focus areas:
+### 6.8 Phase 6 — Post Launch Growth
 
 - Expanding RLHF App Workers
 - Onboarding GPU Workers
@@ -403,14 +381,83 @@ Focus areas:
 - Stabilising emissions
 - Growing liquidity depth
 - Publishing transparency dashboards (tasks, emissions, treasury)
+- Dataset quality scoring and audit tools
+- Expanded consensus metrics
 
 **Purpose:** Demonstrate real usage, real contributors, and real compute from day one.
 
+---
+
+### 6.9 Phase 7 — Enterprise & Governance
+
+- Public enterprise API access matures
+- Dataset licensing and enterprise‑grade API tiers introduced
+- Zuno SDK for developers released
+- Enterprise integrations for AI accuracy services
+- On‑chain governance voting activated via smart contracts
+- Community proposals and votes executed automatically
+
+**Purpose:** Build Zuno's commercial layer and hand governance fully to the community.
 
 ---
-## 7. Security & Transparency
 
-### 7.1 Security Principles
+### 6.10 Phase 8 — Global Expansion
+
+- Global GPU Worker scaling
+- Regional task distribution
+- Enterprise integrations expanded internationally
+- Growing liquidity depth and market presence
+
+**Purpose:** Grow the network into a global compute and RLHF accuracy platform.
+
+---
+
+### 6.11 Phase 9 — AI Infrastructure
+
+- Hybrid cloud + decentralized GPU architecture
+- Dedicated Zuno inference clusters
+- High‑volume enterprise workloads
+- Model‑agnostic compute layer for open‑source LLMs
+
+**Purpose:** Build a scalable, hybrid AI infrastructure powered by community compute.
+
+---
+
+### 6.12 Phase 10 — Zuno AI
+
+- Zuno's own AI model trained on consensus‑verified RLHF datasets
+- Fine‑tuning via open‑source model families
+- Accuracy‑first architecture
+- Integrated into Zuno's enterprise products
+
+**Purpose:** Deliver a high‑accuracy AI model built entirely on community‑validated data.
+
+
+---
+
+## 7. Roadmap
+
+The table below provides a high‑level summary of the Zuno Network phase sequence. Full detail for each phase is in Section 6 — Launch Plan.
+
+| Phase | Name | Key Milestone |
+|---|---|---|
+| Phase 0 | Private Beta Testing | App and API validated internally |
+| Phase 1 | Pre-mine (Zuno Points Earning Period) | Points earned, snapshot taken, TGE airdrop distributed |
+| Phase 2 | Community Growth | RLHF App Worker base expands, task throughput scales |
+| Phase 3 | Liquidity Launch | Raydium pool deployed, LP locked |
+| Phase 4 | Token Goes Live (Mainnet) | ZUNO tradable, on‑chain rewards, governance introduced |
+| Phase 5 | GPU Network Launch | GPU Workers onboarded, compute rewards activated |
+| Phase 6 | Post Launch Growth | Network stabilised, dashboards live, liquidity deepens |
+| Phase 7 | Enterprise & Governance | Enterprise API, SDK, on‑chain governance |
+| Phase 8 | Global Expansion | International GPU scaling, regional task distribution |
+| Phase 9 | AI Infrastructure | Hybrid cloud + decentralized GPU clusters |
+| Phase 10 | Zuno AI | Community‑trained AI model released |
+
+
+---
+## 8. Security & Transparency
+
+### 8.1 Security Principles
 Zuno is designed around three core security principles:
 
 - Every client must be authenticated
@@ -419,7 +466,7 @@ Zuno is designed around three core security principles:
 
 These principles apply equally to RLHF App Workers and GPU Workers.
 
-### 7.2 RLHF App Worker Security
+### 8.2 RLHF App Worker Security
 The Android App uses a lightweight but strict security model:
 
 - Per‑session authentication ensures each RLHF App Worker session is unique
@@ -429,7 +476,7 @@ The Android App uses a lightweight but strict security model:
 
 All RLHF contributions are logged, rate‑limited, and verified before rewards are issued.
 
-### 7.3 GPU Worker Security
+### 8.3 GPU Worker Security
 GPU Workers operate under a hardened API‑token system:
 
 - Each GPU Worker receives a unique API‑issued token that expires every hour
@@ -440,7 +487,7 @@ GPU Workers operate under a hardened API‑token system:
 
 Only authenticated GPU Workers with valid, non‑expired tokens can participate in compute tasks.
 
-### 7.4 Data Integrity & Consensus
+### 8.4 Data Integrity & Consensus
 Zuno uses a multi‑layer validation model:
 
 - RLHF App Workers confirm accuracy of Q and A tasks
@@ -451,7 +498,7 @@ Zuno uses a multi‑layer validation model:
 
 This ensures both human‑validated data and GPU‑generated outputs remain trustworthy.
 
-### 7.5 Transparency Commitments
+### 8.5 Transparency Commitments
 Zuno is built to be verifiable from day one.
 
 **Public Dashboards**  
@@ -481,7 +528,7 @@ Where possible, Zuno releases:
 
 This allows independent verification of how tasks are processed and how rewards are calculated.
 
-### 7.6 No Insider Advantage
+### 8.6 No Insider Advantage
 Zuno maintains strict fairness guarantees:
 
 - No presale
@@ -492,7 +539,7 @@ Zuno maintains strict fairness guarantees:
 
 Every token in circulation is earned through real work — either RLHF validation or GPU compute.
 
-### 7.7 Continuous Monitoring
+### 8.7 Continuous Monitoring
 The network continuously monitors:
 
 - Abnormal task patterns
@@ -502,87 +549,6 @@ The network continuously monitors:
 - Reward anomalies
 
 Workers or accounts that violate network rules are automatically rate‑limited or suspended.
-
----
-## 8. Roadmap
-
-### 8.1 Phase 0 — Private Beta (Current Phase)
-- Android App private testing
-- RLHF App Worker workflow validation
-- JSON Q/A task pipeline testing via Zuno API
-- API load, latency, and error‑handling verification
-- Loyalty multiplier logic testing
-- UI/UX refinement
-- No emissions, no rewards
-
-**Goal:** Ensure the app and API are stable before the 30‑day pre‑mine.
-
-### 8.2 Phase 1 — 30‑Day Pre‑Mine
-- Public Zuno PWA release
-- RLHF App Workers complete tasks and earn points (1 task = 1 point, max 10/day)
-- Points tracked in Zuno backend dashboard — no on‑chain token distribution during this phase
-- Users link Solana‑compatible wallets in the PWA before the Snapshot Date
-- Task throughput scaling
-- Community growth and onboarding
-- Transparency dashboards activated
-- No GPU Worker rewards yet
-- Snapshot Date at day 30: final point balances recorded
-- TGE airdrop: 1 point = 1 ZUNO distributed to all eligible linked wallets
-
-**Goal:** Build the initial contributor base, record a fair snapshot, and distribute the first circulating ZUNO supply via airdrop.
-
-### 8.3 Phase 2 — Liquidity & Launch
-- Raydium liquidity pool deployment
-- 1,000,000 ZUNO paired with $1,000–$10,000 SOL
-- Public trading opens
-- Pre‑mine tokens enter circulation
-- No presale, no team tokens, no insiders
-
-**Goal:** Establish a fair, transparent market entry.
-
-### 8.4 Phase 3 — GPU Network Activation
-- GPU Worker Docker container released publicly
-- Home GPUs onboarded into the network
-- Compute‑based ZUNO rewards activated
-- Benchmarking and uptime scoring
-- Consensus validation across GPU Workers
-- RLHF App Workers continue earning
-
-**Goal:** Bring decentralized compute online and begin real inference workloads.
-
-### 8.5 Phase 4 — Mainnet Systems
-- On‑chain ZUNO reward claiming
-- Governance framework introduced
-- Public enterprise API access
-- Dataset quality scoring and audit tools
-- Expanded consensus metrics
-
-**Goal:** Transition from testnet‑style emissions to full mainnet operations.
-
-### 8.6 Phase 5 — Expansion
-- Global GPU Worker scaling
-- Regional task distribution
-- Zuno SDK for developers
-- Enterprise integrations for AI accuracy services
-- Dataset licensing and enterprise‑grade API tiers
-
-**Goal:** Grow the network into a global compute and RLHF accuracy platform.
-
-### 8.7 Phase 6 — AI Infrastructure
-- Hybrid cloud + decentralized GPU architecture
-- Dedicated Zuno inference clusters
-- High‑volume enterprise workloads
-- Model‑agnostic compute layer for open‑source LLMs
-
-**Goal:** Build a scalable, hybrid AI infrastructure powered by community compute.
-
-### 8.8 Future — Zuno AI
-- Zuno's own AI model trained on consensus‑verified RLHF datasets
-- Fine‑tuning via open‑source model families
-- Accuracy‑first architecture
-- Integrated into Zuno's enterprise products
-
-**Goal:** Deliver a high‑accuracy AI model built entirely on community‑validated data.
 
 ---
 
@@ -673,5 +639,9 @@ Fair launch. Fair participation. A network built for accuracy, powered by people
 - Added Token Generating Event (TGE) process
 - Added Section 9 Governance
 - Added Table of Contents
+- Consolidated Launch Plan and Roadmap into Section 6 with phases 0–10
+- Section 7 Roadmap reduced to high‑level summary timeline
+- Security & Transparency renumbered to Section 8
+- Removed duplicate Section 3 heading
 
 **v1.0 — Original release**
