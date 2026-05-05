@@ -61,7 +61,7 @@ The Android app is being tested privately. RLHF App Worker workflows and the Zun
 
 Full details on tokenomics, reward emissions, security, roadmap, and launch plan:
 
-[Zuno Network Litepaper v1](./zuno-litepaper-v1.md)
+[Zuno Network Litepaper v1.1](./zuno-litepaper.md)
 
 ---
 
