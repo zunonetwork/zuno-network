@@ -580,6 +580,8 @@ Workers or accounts that violate network rules are automatically rate‑limited 
 ### 9.1 Overview
 ZUNO tokens grant holders governance rights over the Zuno Network. Every ZUNO token equals one vote. The more ZUNO a holder has earned through contributions, the greater their say in how the network evolves. Governance ensures the network is community‑driven, not founder‑controlled.
 
+Reward rates, emission schedules, and treasury allocations are determined by community governance vote, not by the founding team.
+
 ### 9.2 What Token Holders Vote On
 - Task reward emission rates
 - Daily task cap adjustments
