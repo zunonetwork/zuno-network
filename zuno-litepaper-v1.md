@@ -53,8 +53,14 @@ Improved AI Accuracy, Powered by People and Decentralized Compute
    - [8.6 Phase 5 — Expansion](#86-phase-5--expansion)
    - [8.7 Phase 6 — AI Infrastructure](#87-phase-6--ai-infrastructure)
    - [8.8 Future — Zuno AI](#88-future--zuno-ai)
-9. [About the Founder](#9-about-the-founder)
-10. [Conclusion](#10-conclusion)
+9. [Governance](#9-governance)
+   - [9.1 Overview](#91-overview)
+   - [9.2 What Token Holders Vote On](#92-what-token-holders-vote-on)
+   - [9.3 How Voting Works](#93-how-voting-works)
+   - [9.4 Voting Phases](#94-voting-phases)
+   - [9.5 Governance Principles](#95-governance-principles)
+10. [About the Founder](#10-about-the-founder)
+11. [Conclusion](#11-conclusion)
 
 ---
 
@@ -569,7 +575,41 @@ Workers or accounts that violate network rules are automatically rate‑limited 
 
 ---
 
-## 9. About the Founder
+## 9. Governance
+
+### 9.1 Overview
+ZUNO tokens grant holders governance rights over the Zuno Network. Every ZUNO token equals one vote. The more ZUNO a holder has earned through contributions, the greater their say in how the network evolves. Governance ensures the network is community‑driven, not founder‑controlled.
+
+### 9.2 What Token Holders Vote On
+- Task reward emission rates
+- Daily task cap adjustments
+- Treasury spending and ecosystem grants
+- GPU Worker reward rates
+- Loyalty multiplier adjustments
+- Protocol upgrades and new features
+- Network partnership decisions
+
+### 9.3 How Voting Works
+- 1 ZUNO = 1 vote
+- Simply holding ZUNO in your wallet gives you voting power
+- No staking or lockups required to participate
+- Proposals are submitted by community members
+- A minimum threshold of ZUNO must be held to submit a proposal
+
+### 9.4 Voting Phases
+- **Phase 1** — Off‑chain voting via Snapshot. Votes are recorded transparently but executed by the Zuno team. This keeps things simple and cost‑free during early network growth.
+- **Phase 2** — On‑chain governance introduced at Mainnet. Votes are executed automatically via smart contracts with no founder intervention required.
+
+### 9.5 Governance Principles
+- No founder veto
+- All proposals and results are publicly visible
+- Voting periods run for a fixed duration announced in advance
+- The founder's 1% allocation means no single party can dominate votes
+
+
+---
+
+## 10. About the Founder
 
 Stephen is a systems engineer and web developer with more than 20 years working across Government, Telecommunications and Healthcare — sectors where reliability, risk mitigation, data integrity and uptime are non‑negotiable. His background spans MSP ownership, enterprise IT management, ERP implementation, and hands‑on infrastructure work across some of Australia's most demanding environments.
 
@@ -580,7 +620,7 @@ Zuno Network was created to solve that problem at the foundation. By combining h
 
 ---
 
-## 10. Conclusion
+## 11. Conclusion
 
 AI hallucination isn't a theoretical problem — it's happening today in every industry that relies on automated answers. When AI gets things wrong, the impact flows directly into decisions, reporting, legal liability, compliance, and trust.
 
