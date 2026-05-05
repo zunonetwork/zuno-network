@@ -598,6 +598,19 @@ Reward rates, emission schedules, and treasury allocations are determined by com
 - Proposals are submitted by community members
 - A minimum threshold of ZUNO must be held to submit a proposal
 
+Voting is conducted via Snapshot.org, the industry standard off‑chain governance platform used by leading DePIN and DeFi projects.
+
+To vote:
+1. Visit the official Zuno governance page on Snapshot.org
+2. Connect your Solana‑compatible wallet
+3. Your voting power is automatically calculated based on your ZUNO balance
+4. Browse open proposals and cast your vote
+
+- No tokens are spent or locked — voting is free and non‑custodial
+- All votes and results are permanently and publicly visible
+
+Voting periods run for a fixed duration announced in advance via official Zuno channels.
+
 ### 9.4 Voting Phases
 - **Phase 1** — Off‑chain voting via Snapshot. Votes are recorded transparently but executed by the Zuno team. This keeps things simple and cost‑free during early network growth.
 - **Phase 2** — On‑chain governance introduced at Mainnet. Votes are executed automatically via smart contracts with no founder intervention required.
