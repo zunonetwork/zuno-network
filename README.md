@@ -2,7 +2,7 @@
 
 **Improved AI Accuracy, Powered by People and Decentralized Compute**
 
-**The Problem: AI is smart, but it isn't always right.**
+**The Problem: AI is smart, but it frequency makes mistakes.**
 
 AI often gives answers that look correct but aren't. These "hallucinations" make it hard to rely on AI for important tasks and have liability risks. Fixing these mistakes is expensive and mostly controlled by a few large companies, leaving everyone else out of the process.
 
