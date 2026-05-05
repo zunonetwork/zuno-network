@@ -40,17 +40,17 @@ Your corrections help create higher‑quality training data. Over time, this pro
 
 ## 3. Tokenomics
 
-**ZUNO is a fair‑launch token on Solana with no presale, no insider allocation, and no team tokens. Every token enters circulation through real contribution — either by completing tasks in the Android/IOS app or by operating a GPU node.** This ensures supply is earned through work, not financial advantage, and that early participants and long‑term contributors are rewarded fairly.
+**ZUNO is a fair‑launch token on Solana with no presale, no insider allocation, and no team tokens. Every token enters circulation through real contribution — either by earning points during the pre‑mine phase (redeemed via airdrop at TGE) or by operating a GPU Worker (a home PC running the Zuno GPU container).** This ensures supply is earned through work, not financial advantage, and that early participants and long‑term contributors are rewarded fairly.
 
-ZUNO powers the network's incentive model, governance, and long‑term sustainability. Participants earn ZUNO by validating AI Q/A pairs through the Android/IOS app, and by contributing compute as GPU Workers.
+ZUNO powers the network's incentive model, governance, and long‑term sustainability. During the pre‑mine phase, participants accumulate points by validating AI Q/A pairs through the Zuno PWA. At the Token Generating Event (TGE), points convert to ZUNO at a 1:1 ratio via airdrop. After TGE, GPU Workers earn ZUNO directly for compute contribution.
 
 ---
 
 ## 3. Tokenomics
 
-**ZUNO is a fair‑launch token on Solana with no presale, no insider allocation, and no team tokens. Every token enters circulation through real contribution — either by completing tasks in the Android app or by operating a GPU Worker (a home PC running the Zuno GPU container).** This ensures supply is earned through work, not financial advantage, and that early participants and long‑term contributors are rewarded fairly.
+**ZUNO is a fair‑launch token on Solana with no presale, no insider allocation, and no team tokens. Every token enters circulation through real contribution — either by earning points during the pre‑mine phase (redeemed via airdrop at TGE) or by operating a GPU Worker (a home PC running the Zuno GPU container).** This ensures supply is earned through work, not financial advantage, and that early participants and long‑term contributors are rewarded fairly.
 
-ZUNO powers the network's incentive model, governance, and long‑term sustainability. Participants earn ZUNO by validating AI Q/A pairs through the Android app, and by contributing compute as GPU Workers.
+ZUNO powers the network's incentive model, governance, and long‑term sustainability. During the pre‑mine phase, participants accumulate points by validating AI Q/A pairs through the Zuno PWA. At the Token Generating Event (TGE), points convert to ZUNO at a 1:1 ratio via airdrop. After TGE, GPU Workers earn ZUNO directly for compute contribution.
 
 ---
 
@@ -165,25 +165,34 @@ The model is designed to:
 ## 5. Pre‑Mine
 
 ### 5.1 Purpose
-The pre‑mine phase distributes the first circulating ZUNO to real contributors before trading opens. Only RLHF App Workers earn during this phase by running the Zuno Android App and validating AI outputs.
+The pre‑mine phase builds Zuno's initial contributor base before trading opens. Only RLHF App Workers participate during this phase by running the Zuno PWA and validating AI outputs. Contributors earn **points**, not ZUNO tokens, during this phase. Points are tracked in the Zuno backend dashboard and are not on‑chain.
 
 No sales. No insiders. No team tokens. No GPU rewards yet.
 
-### 5.2 Supply
-All pre‑mine rewards come from the Community Treasury. There is no separate allocation for the pre‑mine.
+### 5.2 Points System
+During the pre‑mine, all task contributions are recorded as points:
 
-### 5.3 How the Pre‑Mine Works
-During the pre‑mine period:
-- RLHF App Workers earn ZUNO for validating AI Q and A tasks
-- RLHF App Workers may receive loyalty‑based bonus multipliers for consistent participation
-- GPU Worker rewards are not active during pre‑mine
-- No tokens are sold or offered privately
-- No lockups, no staking, no financial‑product mechanics
+- **1 task completed = 1 point**
+- **Maximum 10 points per day per user**
+- Points are tracked in the Zuno backend dashboard
+- Points are not on‑chain and no ZUNO tokens are distributed during this phase
 
-The pre‑mine continues until the network reaches a minimum community threshold (RLHF App Workers, tasks completed, or activity volume).
+### 5.3 Wallet Linking Requirement
+To be eligible for the airdrop, users must link a valid Solana‑compatible wallet in the Zuno PWA before the Snapshot Date. Users who do not link a wallet before the Snapshot Date will not receive the airdrop.
 
-### 5.4 Circulating Supply at Launch
-Only ZUNO earned by RLHF App Workers becomes the initial circulating supply.
+### 5.4 Snapshot Date
+The Snapshot Date is the fixed date exactly 30 days after the Zuno PWA goes live. On this date, the Zuno backend records every user's final point balance. This frozen balance becomes their ZUNO token allocation for the airdrop. No points earned after the Snapshot Date count toward the initial airdrop. Users must have linked a valid Solana‑compatible wallet in the PWA before the Snapshot Date to be eligible to receive tokens.
+
+### 5.5 Token Generating Event (TGE) and Airdrop
+After the Snapshot Date, ZUNO tokens are distributed to all eligible wallets at a 1:1 ratio — **1 point = 1 ZUNO token**. This event is also referred to as the Token Generating Event (TGE).
+
+- Only users with a linked wallet before the Snapshot Date are eligible
+- Tokens are distributed from the Community Treasury
+- No tokens are sold, presold, or privately allocated
+- All tokens in the initial circulating supply are earned through real task contribution
+
+### 5.6 Supply at Launch
+Only ZUNO distributed via the TGE airdrop becomes the initial circulating supply.
 
 There are:
 - No presale tokens
@@ -193,8 +202,8 @@ There are:
 
 Everyone enters at the same starting price when liquidity goes live.
 
-### 5.5 Transition to Public Trading
-Once the pre‑mine target is reached, the initial Raydium liquidity pool is deployed:
+### 5.7 Transition to Public Trading
+Once the TGE airdrop is complete, the initial Raydium liquidity pool is deployed:
 - 1,000,000 ZUNO
 - $1,000–$10,000 SOL
 - Target price: ~$0.001
@@ -245,14 +254,20 @@ This is the phase underway right now.
 ### 6.3 Phase 1 — 30‑Day Pre‑Mine
 After Phase 0 is complete, the public pre‑mine begins.
 
-- RLHF App Workers download the public Android App
-- Validate AI Q and A tasks
-- Earn ZUNO from the Community Treasury
+- RLHF App Workers download the public Zuno PWA
+- Validate AI Q and A tasks and earn **points** (not ZUNO tokens)
+- 1 task completed = 1 point, maximum 10 points per day per user
+- Points are tracked in the Zuno backend dashboard — no on‑chain activity during this phase
 - Loyalty multipliers reward consistent participation
+- Users must link a Solana‑compatible wallet in the PWA before the Snapshot Date to be eligible for the airdrop
 - GPU Worker rewards remain inactive
 - No trading, no liquidity, no token sales
 
-**Purpose:** Build a real contributor base and create a fair initial circulating supply.
+**Snapshot Date:** Exactly 30 days after the Zuno PWA goes live, the backend records every user's final point balance. This frozen balance determines their ZUNO allocation.
+
+**TGE and Airdrop:** After the snapshot, ZUNO tokens are distributed to all eligible wallets at 1 point = 1 ZUNO. This is the Token Generating Event (TGE). Only users who linked a valid Solana‑compatible wallet before the Snapshot Date receive the airdrop.
+
+**Purpose:** Build a real contributor base and create a fair, earned initial circulating supply with no presale or insider advantage.
 
 ---
 
@@ -432,14 +447,18 @@ Workers or accounts that violate network rules are automatically rate‑limited 
 **Goal:** Ensure the app and API are stable before the 30‑day pre‑mine.
 
 ### 8.2 Phase 1 — 30‑Day Pre‑Mine
-- Public Android App release
-- RLHF App Workers begin earning ZUNO
+- Public Zuno PWA release
+- RLHF App Workers complete tasks and earn points (1 task = 1 point, max 10/day)
+- Points tracked in Zuno backend dashboard — no on‑chain token distribution during this phase
+- Users link Solana‑compatible wallets in the PWA before the Snapshot Date
 - Task throughput scaling
 - Community growth and onboarding
 - Transparency dashboards activated
 - No GPU Worker rewards yet
+- Snapshot Date at day 30: final point balances recorded
+- TGE airdrop: 1 point = 1 ZUNO distributed to all eligible linked wallets
 
-**Goal:** Build the initial contributor base and create the first circulating supply.
+**Goal:** Build the initial contributor base, record a fair snapshot, and distribute the first circulating ZUNO supply via airdrop.
 
 ### 8.3 Phase 2 — Liquidity & Launch
 - Raydium liquidity pool deployment
