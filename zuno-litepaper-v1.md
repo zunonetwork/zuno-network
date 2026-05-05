@@ -1,4 +1,4 @@
-# Zuno Network — Litepaper
+# Zuno Network — Litepaper v1.1
 
 Improved AI Accuracy, Powered by People and Decentralized Compute
 
@@ -636,3 +636,16 @@ Fair launch. Fair participation. A network built for accuracy, powered by people
 ---
 
 *© 2026 Zuno Network. Built on Solana.*
+
+---
+
+## Changelog
+
+**v1.1 — May 2026**
+- Added points‑based earning system replacing on‑chain token earning during pre‑mine phase
+- Added Snapshot Date definition
+- Added Token Generating Event (TGE) process
+- Added Section 9 Governance
+- Added Table of Contents
+
+**v1.0 — Original release**
