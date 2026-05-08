@@ -10,53 +10,56 @@ Improved AI Accuracy, Powered by People and Decentralized Compute
 2. [How it Works](#2-how-it-works)
 3. [Tokenomics](#3-tokenomics)
    - [3.1 Token Allocation](#31-token-allocation)
-   - [3.2 Fair‑Launch Principles](#32-fairlaunch-principles)
+   - [3.2 Open and Inclusive Community Project](#32-open-and-inclusive-community-project)
    - [3.3 Emissions Model](#33-emissions-model)
    - [3.4 Long‑Term Sustainability](#34-longterm-sustainability)
-4. [Reward Emissions](#4-reward-emissions)
-   - [4.1 Overview](#41-overview)
-   - [4.2 Reward Types](#42-reward-types)
-   - [4.3 Emission Structure](#43-emission-structure)
-   - [4.4 Distribution Flow](#44-distribution-flow)
-   - [4.5 Sustainability](#45-sustainability)
-5. [Pre‑Mine](#5-premine)
-   - [5.1 Purpose](#51-purpose)
-   - [5.2 Points System](#52-points-system)
-   - [5.3 Wallet Linking Requirement](#53-wallet-linking-requirement)
-   - [5.4 Snapshot Date](#54-snapshot-date)
-   - [5.5 Token Generating Event (TGE) and Airdrop](#55-token-generating-event-tge-and-airdrop)
-   - [5.6 Supply at Launch](#56-supply-at-launch)
-   - [5.7 Transition to Public Trading](#57-transition-to-public-trading)
-6. [Launch Plan](#6-launch-plan)
-   - [6.1 Overview](#61-overview)
-   - [6.2 Phase 0 — Private Beta Testing](#62-phase-0--private-beta-testing)
-   - [6.3 Phase 1 — Pre-mine (Zuno Points Earning Period)](#63-phase-1--pre-mine-zuno-points-earning-period)
-   - [6.4 Phase 2 — Community Growth](#64-phase-2--community-growth)
-   - [6.5 Phase 3 — Liquidity Launch](#65-phase-3--liquidity-launch)
-   - [6.6 Phase 4 — Token Goes Live (Mainnet)](#66-phase-4--token-goes-live-mainnet)
-   - [6.7 Phase 5 — GPU Network Launch](#67-phase-5--gpu-network-launch)
-   - [6.8 Phase 6 — Post Launch Growth](#68-phase-6--post-launch-growth)
-   - [6.9 Phase 7 — Enterprise & Governance](#69-phase-7--enterprise--governance)
-   - [6.10 Phase 8 — Global Expansion](#610-phase-8--global-expansion)
-   - [6.11 Phase 9 — AI Infrastructure](#611-phase-9--ai-infrastructure)
-   - [6.12 Phase 10 — Zuno AI](#612-phase-10--zuno-ai)
-7. [Roadmap](#7-roadmap)
-8. [Security & Transparency](#8-security--transparency)
-   - [8.1 Security Principles](#81-security-principles)
-   - [8.2 RLHF App Worker Security](#82-rlhf-app-worker-security)
-   - [8.3 GPU Worker Security](#83-gpu-worker-security)
-   - [8.4 Data Integrity & Consensus](#84-data-integrity--consensus)
-   - [8.5 Transparency Commitments](#85-transparency-commitments)
-   - [8.6 No Insider Advantage](#86-no-insider-advantage)
-   - [8.7 Continuous Monitoring](#87-continuous-monitoring)
-9. [Governance](#9-governance)
-   - [9.1 Overview](#91-overview)
-   - [9.2 What Token Holders Vote On](#92-what-token-holders-vote-on)
-   - [9.3 How Voting Works](#93-how-voting-works)
-   - [9.4 Voting Phases](#94-voting-phases)
-   - [9.5 Governance Principles](#95-governance-principles)
-10. [About the Founder](#10-about-the-founder)
-11. [Conclusion](#11-conclusion)
+4. [Genesis NFT Sale](#4-genesis-nft-sale)
+   - [4.1 Purpose](#41-purpose)
+   - [4.2 How It Works](#42-how-it-works)
+5. [Reward Emissions](#5-reward-emissions)
+   - [5.1 Overview](#51-overview)
+   - [5.2 Reward Types](#52-reward-types)
+   - [5.3 Emission Structure](#53-emission-structure)
+   - [5.4 Distribution Flow](#54-distribution-flow)
+   - [5.5 Sustainability](#55-sustainability)
+6. [Pre‑Mine](#6-premine)
+   - [6.1 Purpose](#61-purpose)
+   - [6.2 Points System](#62-points-system)
+   - [6.3 Wallet Linking Requirement](#63-wallet-linking-requirement)
+   - [6.4 Snapshot Date](#64-snapshot-date)
+   - [6.5 Token Generating Event (TGE) and Airdrop](#65-token-generating-event-tge-and-airdrop)
+   - [6.6 Supply at Launch](#66-supply-at-launch)
+   - [6.7 Transition to Public Trading](#67-transition-to-public-trading)
+7. [Launch Plan](#7-launch-plan)
+   - [7.1 Overview](#71-overview)
+   - [7.2 Phase 0 — Private Beta Testing](#72-phase-0--private-beta-testing)
+   - [7.3 Phase 1 — Pre-mine (Zuno Points Earning Period)](#73-phase-1--pre-mine-zuno-points-earning-period)
+   - [7.4 Phase 2 — Community Growth](#74-phase-2--community-growth)
+   - [7.5 Phase 3 — Liquidity Launch](#75-phase-3--liquidity-launch)
+   - [7.6 Phase 4 — Token Goes Live (Mainnet)](#76-phase-4--token-goes-live-mainnet)
+   - [7.7 Phase 5 — GPU Network Launch](#77-phase-5--gpu-network-launch)
+   - [7.8 Phase 6 — Post Launch Growth](#78-phase-6--post-launch-growth)
+   - [7.9 Phase 7 — Enterprise & Governance](#79-phase-7--enterprise--governance)
+   - [7.10 Phase 8 — Global Expansion](#710-phase-8--global-expansion)
+   - [7.11 Phase 9 — AI Infrastructure](#711-phase-9--ai-infrastructure)
+   - [7.12 Phase 10 — Zuno AI](#712-phase-10--zuno-ai)
+8. [Roadmap](#8-roadmap)
+9. [Security & Transparency](#9-security--transparency)
+   - [9.1 Security Principles](#91-security-principles)
+   - [9.2 RLHF App Worker Security](#92-rlhf-app-worker-security)
+   - [9.3 GPU Worker Security](#93-gpu-worker-security)
+   - [9.4 Data Integrity & Consensus](#94-data-integrity--consensus)
+   - [9.5 Transparency Commitments](#95-transparency-commitments)
+   - [9.6 No Insider Advantage](#96-no-insider-advantage)
+   - [9.7 Continuous Monitoring](#97-continuous-monitoring)
+10. [Governance](#10-governance)
+    - [10.1 Overview](#101-overview)
+    - [10.2 What Token Holders Vote On](#102-what-token-holders-vote-on)
+    - [10.3 How Voting Works](#103-how-voting-works)
+    - [10.4 Voting Phases](#104-voting-phases)
+    - [10.5 Governance Principles](#105-governance-principles)
+11. [About the Founder](#11-about-the-founder)
+12. [Conclusion](#12-conclusion)
 
 ---
 
@@ -64,16 +67,26 @@ Improved AI Accuracy, Powered by People and Decentralized Compute
 
 **The Problem:** AI is smart, but it frequently makes mistakes.
 
-AI often gives answers that look correct but aren't. These "hallucinations" make it hard to rely on AI for important tasks and have liability risks. Fixing these mistakes is expensive and mostly controlled by a few large companies, leaving everyone else out of the process.
+AI often gives answers that look correct but aren't. 
+These "hallucinations" create real risks in healthcare, 
+legal, finance, and everyday decisions. Fixing them is 
+expensive and controlled by a handful of large companies 
+— leaving everyone else out of the process.
 
 **The Solution:** Zuno Network
 
-Zuno Network uses a smartphone App (PWA) that runs on both Android and iOS. The app runs RLHF (Reinforcement Learning from Human Feedback), allowing people to help review and improve AI‑generated data. These are called **RLHF App Workers**.
+Zuno Network uses a smartphone app (Android and iOS) 
+that turns everyday people into AI trainers. By reviewing 
+AI-generated answers — a process the industry calls 
+**data labeling** — contributors help improve AI accuracy 
+and earn **Zuno tokens** on the Solana blockchain as a 
+reward for every task completed.
 
-**Earn Zuno Tokens for Contributing**
+No experience needed. No cost to join. 
+Anyone in the world can contribute and earn.
 
-When you take part, you earn Zuno tokens on the Solana blockchain as a reward for your contributions.
-
+*Zuno tokens are earned as rewards for completing tasks 
+and are not offered as a financial investment.*
 
 ---
 
@@ -118,17 +131,14 @@ ZUNO powers the network's incentive model, governance, and long‑term sustainab
 
 ---
 
-### 3.2 Fair‑Launch Principles
+### 3.2 Open and Inclusive Community Project
 
-ZUNO follows strict fair‑launch rules:
-- No presale  
-- No private investors  
-- No insider allocations  
-- No team tokens  
-- No whales  
-- Same entry price for everyone  
+ZUNO is an open and inclusive community project. Anyone with a smartphone 
+can participate. Simply download the app and start earning.
 
-The **1% founder allocation** is intentionally small and transparent. It exists solely to ensure the project can be developed full‑time without relying on VC funding or private token deals — maintaining Zuno's independence and fairness.
+The 1% founder allocation is intentionally small and transparent. It exists 
+solely to ensure the project can be developed full‑time, maintaining Zuno's 
+independence and long‑term commitment to the community.
 
 ---
 
@@ -151,14 +161,29 @@ Zuno's economic model is designed for durability:
 - Token holders participate in governance over emissions and network parameters
 
 ---
-## 4. Reward Emissions
 
-### 4.1 Overview
+## 4. Genesis NFT Sale
+
+### 4.1 Purpose
+The Genesis NFT Sale is a one‑time early supporter program that runs before the public pre‑mine begins. It exists for two reasons: to fund the initial Raydium liquidity pool that backs ZUNO at launch, and to reward the people who believe in the network before a single token has traded.
+
+Holding a Genesis NFT is never required to use Zuno. The network is free and open to everyone — download the app and start earning. These passes exist for early supporters who want to contribute to the network's foundation and earn tokens faster while doing so.
+
+### 4.2 How It Works
+Genesis NFT holders receive an earning multiplier applied to their RLHF App Worker rewards. The multiplier increases the number of ZUNO tokens earned per completed task — it does not create passive income, staking rewards, or any guaranteed financial return. Tokens are still earned through real work in the app.
+
+Example: A standard RLHF App Worker earns 1 ZUNO per task, with a cap of 10 ZUNO per day. A Supporter Pass holder (3× multiplier) earns 3 ZUNO per task, up to 30 ZUNO per day — by completing the same tasks as everyone else.
+
+---
+
+## 5. Reward Emissions
+
+### 5.1 Overview
 All ZUNO rewards come from the Community Treasury (999,000,000 ZUNO). Rewards are earned through real participation — RLHF tasks, GPU compute, and long‑term contribution to the network.
 
 No staking. No lockups. No guaranteed returns.
 
-### 4.2 Reward Types
+### 5.2 Reward Types
 
 **1. RLHF Rewards**  
 Earned for completing human‑feedback tasks:
@@ -196,7 +221,7 @@ To recognise users who stay active over time, ZUNO includes loyalty‑based cont
 
 Contributors who remain consistently active (RLHF or GPU) over longer periods receive periodic bonus multipliers on task rewards. These bonuses are based purely on participation activity and do not involve staking, lockups, or passive holding.
 
-### 4.3 Emission Structure
+### 5.3 Emission Structure
 ZUNO uses a task‑based emission model:
 - Rewards are issued per completed task
 - Emissions scale with real usage
@@ -205,14 +230,14 @@ ZUNO uses a task‑based emission model:
 
 This extends the lifespan of the treasury and prevents over‑emission.
 
-### 4.4 Distribution Flow
+### 5.4 Distribution Flow
 1. A task is completed (RLHF or GPU).  
 2. The system assigns a reward amount.  
 3. Loyalty multipliers apply if the contributor has a long activity streak.  
 4. Tokens are released from the Community Treasury.  
 5. The user claims them on‑chain.
 
-### 4.5 Sustainability
+### 5.5 Sustainability
 The model is designed to:
 - Reward early contributors  
 - Scale with network demand  
@@ -221,14 +246,15 @@ The model is designed to:
 
 
 ---
-## 5. Pre‑Mine
 
-### 5.1 Purpose
+## 6. Pre‑Mine
+
+### 6.1 Purpose
 The pre‑mine phase builds Zuno's initial contributor base before trading opens. Only RLHF App Workers participate during this phase by running the Zuno PWA and validating AI outputs. Contributors earn **points**, not ZUNO tokens, during this phase. Points are tracked in the Zuno backend dashboard and are not on‑chain.
 
 No sales. No insiders. No team tokens. No GPU rewards yet.
 
-### 5.2 Points System
+### 6.2 Points System
 During the pre‑mine, all task contributions are recorded as points:
 
 - **1 task completed = 1 point**
@@ -236,13 +262,13 @@ During the pre‑mine, all task contributions are recorded as points:
 - Points are tracked in the Zuno backend dashboard
 - Points are not on‑chain and no ZUNO tokens are distributed during this phase
 
-### 5.3 Wallet Linking Requirement
+### 6.3 Wallet Linking Requirement
 To be eligible for the airdrop, users must link a valid Solana‑compatible wallet in the Zuno PWA before the Snapshot Date. Users who do not link a wallet before the Snapshot Date will not receive the airdrop.
 
-### 5.4 Snapshot Date
+### 6.4 Snapshot Date
 The Snapshot Date is the fixed date exactly 30 days after the Zuno PWA goes live. On this date, the Zuno backend records every user's final point balance. This frozen balance becomes their ZUNO token allocation for the airdrop. No points earned after the Snapshot Date count toward the initial airdrop. Users must have linked a valid Solana‑compatible wallet in the PWA before the Snapshot Date to be eligible to receive tokens.
 
-### 5.5 Token Generating Event (TGE) and Airdrop
+### 6.5 Token Generating Event (TGE) and Airdrop
 After the Snapshot Date, ZUNO tokens are distributed to all eligible wallets at a 1:1 ratio — **1 point = 1 ZUNO token**. This event is also referred to as the Token Generating Event (TGE).
 
 - Only users with a linked wallet before the Snapshot Date are eligible
@@ -250,7 +276,7 @@ After the Snapshot Date, ZUNO tokens are distributed to all eligible wallets at 
 - No tokens are sold, presold, or privately allocated
 - All tokens in the initial circulating supply are earned through real task contribution
 
-### 5.6 Supply at Launch
+### 6.6 Supply at Launch
 Only ZUNO distributed via the TGE airdrop becomes the initial circulating supply.
 
 There are:
@@ -261,7 +287,7 @@ There are:
 
 Everyone enters at the same starting price when liquidity goes live.
 
-### 5.7 Transition to Public Trading
+### 6.7 Transition to Public Trading
 Once the TGE airdrop is complete, the initial Raydium liquidity pool is deployed:
 - 1,000,000 ZUNO
 - $1,000–$10,000 SOL
@@ -275,9 +301,9 @@ After this point:
 
 ---
 
-## 6. Launch Plan
+## 7. Launch Plan
 
-### 6.1 Overview
+### 7.1 Overview
 Zuno launches through a staged, transparent rollout designed for fairness, stability, and real network participation. The full sequence runs from private beta through to a global AI infrastructure network.
 
 No presale.  
@@ -287,7 +313,7 @@ No whales.
 
 ---
 
-### 6.2 Phase 0 — Private Beta Testing
+### 7.2 Phase 0 — Private Beta Testing
 
 - Android App tested privately with a small group
 - RLHF App Worker workflow validated end‑to‑end
@@ -301,7 +327,7 @@ No whales.
 
 ---
 
-### 6.3 Phase 1 — Pre-mine (Zuno Points Earning Period)
+### 7.3 Phase 1 — Pre-mine (Zuno Points Earning Period)
 
 - RLHF App Workers download the public Zuno PWA
 - Validate AI Q and A tasks and earn **points** (not ZUNO tokens)
@@ -320,7 +346,7 @@ No whales.
 
 ---
 
-### 6.4 Phase 2 — Community Growth
+### 7.4 Phase 2 — Community Growth
 
 - RLHF App Worker count grows throughout the pre‑mine period
 - Task throughput increases
@@ -333,7 +359,7 @@ No whales.
 
 ---
 
-### 6.5 Phase 3 — Liquidity Launch
+### 7.5 Phase 3 — Liquidity Launch
 
 - Deploy Raydium liquidity pool
 - Pair **1,000,000 ZUNO** with **$1,000–$10,000 SOL**
@@ -344,7 +370,7 @@ No whales.
 
 ---
 
-### 6.6 Phase 4 — Token Goes Live (Mainnet)
+### 7.6 Phase 4 — Token Goes Live (Mainnet)
 
 - ZUNO becomes tradable
 - Pre‑mine tokens enter circulation via TGE airdrop
@@ -358,7 +384,7 @@ No whales.
 
 ---
 
-### 6.7 Phase 5 — GPU Network Launch
+### 7.7 Phase 5 — GPU Network Launch
 
 - GPU Worker Docker container software released publicly
 - Home GPUs can run the Zuno Worker container
@@ -373,7 +399,7 @@ No whales.
 
 ---
 
-### 6.8 Phase 6 — Post Launch Growth
+### 7.8 Phase 6 — Post Launch Growth
 
 - Expanding RLHF App Workers
 - Onboarding GPU Workers
@@ -388,7 +414,7 @@ No whales.
 
 ---
 
-### 6.9 Phase 7 — Enterprise & Governance
+### 7.9 Phase 7 — Enterprise & Governance
 
 - Public enterprise API access matures
 - Dataset licensing and enterprise‑grade API tiers introduced
@@ -401,7 +427,7 @@ No whales.
 
 ---
 
-### 6.10 Phase 8 — Global Expansion
+### 7.10 Phase 8 — Global Expansion
 
 - Global GPU Worker scaling
 - Regional task distribution
@@ -412,7 +438,7 @@ No whales.
 
 ---
 
-### 6.11 Phase 9 — AI Infrastructure
+### 7.11 Phase 9 — AI Infrastructure
 
 - Hybrid cloud + decentralized GPU architecture
 - Dedicated Zuno inference clusters
@@ -423,7 +449,7 @@ No whales.
 
 ---
 
-### 6.12 Phase 10 — Zuno AI
+### 7.12 Phase 10 — Zuno AI
 
 - Zuno's own AI model trained on consensus‑verified RLHF datasets
 - Fine‑tuning via open‑source model families
@@ -435,9 +461,9 @@ No whales.
 
 ---
 
-## 7. Roadmap
+## 8. Roadmap
 
-The table below provides a high‑level summary of the Zuno Network phase sequence. Full detail for each phase is in Section 6 — Launch Plan.
+The table below provides a high‑level summary of the Zuno Network phase sequence. Full detail for each phase is in Section 7 — Launch Plan.
 
 | Phase | Name | Key Milestone |
 |---|---|---|
@@ -455,9 +481,10 @@ The table below provides a high‑level summary of the Zuno Network phase sequen
 
 
 ---
-## 8. Security & Transparency
 
-### 8.1 Security Principles
+## 9. Security & Transparency
+
+### 9.1 Security Principles
 Zuno is designed around three core security principles:
 
 - Every client must be authenticated
@@ -466,7 +493,7 @@ Zuno is designed around three core security principles:
 
 These principles apply equally to RLHF App Workers and GPU Workers.
 
-### 8.2 RLHF App Worker Security
+### 9.2 RLHF App Worker Security
 The Android App uses a lightweight but strict security model:
 
 - Per‑session authentication ensures each RLHF App Worker session is unique
@@ -476,7 +503,7 @@ The Android App uses a lightweight but strict security model:
 
 All RLHF contributions are logged, rate‑limited, and verified before rewards are issued.
 
-### 8.3 GPU Worker Security
+### 9.3 GPU Worker Security
 GPU Workers operate under a hardened API‑token system:
 
 - Each GPU Worker receives a unique API‑issued token that expires every hour
@@ -487,7 +514,7 @@ GPU Workers operate under a hardened API‑token system:
 
 Only authenticated GPU Workers with valid, non‑expired tokens can participate in compute tasks.
 
-### 8.4 Data Integrity & Consensus
+### 9.4 Data Integrity & Consensus
 Zuno uses a multi‑layer validation model:
 
 - RLHF App Workers confirm accuracy of Q and A tasks
@@ -498,7 +525,7 @@ Zuno uses a multi‑layer validation model:
 
 This ensures both human‑validated data and GPU‑generated outputs remain trustworthy.
 
-### 8.5 Transparency Commitments
+### 9.5 Transparency Commitments
 Zuno is built to be verifiable from day one.
 
 **Public Dashboards**  
@@ -528,7 +555,7 @@ Where possible, Zuno releases:
 
 This allows independent verification of how tasks are processed and how rewards are calculated.
 
-### 8.6 No Insider Advantage
+### 9.6 No Insider Advantage
 Zuno maintains strict fairness guarantees:
 
 - No presale
@@ -539,7 +566,7 @@ Zuno maintains strict fairness guarantees:
 
 Every token in circulation is earned through real work — either RLHF validation or GPU compute.
 
-### 8.7 Continuous Monitoring
+### 9.7 Continuous Monitoring
 The network continuously monitors:
 
 - Abnormal task patterns
@@ -552,14 +579,14 @@ Workers or accounts that violate network rules are automatically rate‑limited 
 
 ---
 
-## 9. Governance
+## 10. Governance
 
-### 9.1 Overview
+### 10.1 Overview
 ZUNO tokens grant holders governance rights over the Zuno Network. Every ZUNO token equals one vote. The more ZUNO a holder has earned through contributions, the greater their say in how the network evolves. Governance ensures the network is community‑driven, not founder‑controlled.
 
 Reward rates, emission schedules, and treasury allocations are determined by community governance vote, not by the founding team.
 
-### 9.2 What Token Holders Vote On
+### 10.2 What Token Holders Vote On
 - Task reward emission rates
 - Daily task cap adjustments
 - Treasury spending and ecosystem grants
@@ -568,7 +595,7 @@ Reward rates, emission schedules, and treasury allocations are determined by com
 - Protocol upgrades and new features
 - Network partnership decisions
 
-### 9.3 How Voting Works
+### 10.3 How Voting Works
 - 1 ZUNO = 1 vote
 - Simply holding ZUNO in your wallet gives you voting power
 - No staking or lockups required to participate
@@ -588,11 +615,11 @@ To vote:
 
 Voting periods run for a fixed duration announced in advance via official Zuno channels.
 
-### 9.4 Voting Phases
+### 10.4 Voting Phases
 - **Phase 1** — Off‑chain voting via Snapshot. Votes are recorded transparently but executed by the Zuno team. This keeps things simple and cost‑free during early network growth.
 - **Phase 2** — On‑chain governance introduced at Mainnet. Votes are executed automatically via smart contracts with no founder intervention required.
 
-### 9.5 Governance Principles
+### 10.5 Governance Principles
 - No founder veto
 - All proposals and results are publicly visible
 - Voting periods run for a fixed duration announced in advance
@@ -601,7 +628,7 @@ Voting periods run for a fixed duration announced in advance via official Zuno c
 
 ---
 
-## 10. About the Founder
+## 11. About the Founder
 
 Stephen is a systems engineer and web developer with more than 20 years working across Government, Telecommunications and Healthcare — sectors where reliability, risk mitigation, data integrity and uptime are non‑negotiable. His background spans MSP ownership, enterprise IT management, ERP implementation, and hands‑on infrastructure work across some of Australia's most demanding environments.
 
@@ -612,7 +639,7 @@ Zuno Network was created to solve that problem at the foundation. By combining h
 
 ---
 
-## 11. Conclusion
+## 12. Conclusion
 
 AI hallucination isn't a theoretical problem — it's happening today in every industry that relies on automated answers. When AI gets things wrong, the impact flows directly into decisions, reporting, legal liability, compliance, and trust.
 
@@ -637,11 +664,12 @@ Fair launch. Fair participation. A network built for accuracy, powered by people
 - Added points‑based earning system replacing on‑chain token earning during pre‑mine phase
 - Added Snapshot Date definition
 - Added Token Generating Event (TGE) process
-- Added Section 9 Governance
+- Added Section 4 Genesis NFT Sale
+- Added Section 10 Governance
 - Added Table of Contents
-- Consolidated Launch Plan and Roadmap into Section 6 with phases 0–10
-- Section 7 Roadmap reduced to high‑level summary timeline
-- Security & Transparency renumbered to Section 8
+- Consolidated Launch Plan and Roadmap into Section 7 with phases 0–10
+- Section 8 Roadmap reduced to high‑level summary timeline
+- Security & Transparency renumbered to Section 9
 - Removed duplicate Section 3 heading
 
 **v1.0 — Original release**
