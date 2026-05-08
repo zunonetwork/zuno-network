@@ -1,0 +1,261 @@
+[
+  {
+    "category": "What is Zuno?",
+    "faqs": [
+      {
+        "id": "what-is-zuno",
+        "question": "What is Zuno Network?",
+        "answer": "Zuno is a decentralised network that helps improve AI accuracy. You use your phone to review AI-generated answers and earn ZUNO tokens for doing so. Think of it as getting paid to fact-check AI.",
+        "link": {
+          "label": "Read the Litepaper",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md"
+        }
+      },
+      {
+        "id": "what-problem-zuno-solves",
+        "question": "What problem does Zuno solve?",
+        "answer": "AI systems often produce answers that sound correct but aren't — these are called hallucinations. Zuno fixes this by having real people review AI outputs, creating higher quality, more trustworthy AI data that enterprises actually pay for.",
+        "link": null
+      },
+      {
+        "id": "who-built-zuno",
+        "question": "Who built Zuno?",
+        "answer": "Zuno was founded by Stephen, an Australian systems engineer with 20+ years of experience across Government, Telecommunications, and Healthcare IT.",
+        "link": {
+          "label": "About the Founder",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#10-about-the-founder"
+        }
+      },
+      {
+        "id": "what-is-depin",
+        "question": "What is DePIN?",
+        "answer": "DePIN stands for Decentralised Physical Infrastructure Network. It means real people — not big tech companies — contribute their devices or time to run the network, and get rewarded with tokens in return. Zuno is a DePIN project for AI data validation.",
+        "link": {
+          "label": "Learn more",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md"
+        }
+      },
+      {
+        "id": "is-zuno-legit",
+        "question": "Is Zuno legitimate?",
+        "answer": "Yes. Zuno is a fully open project — the litepaper, codebase, and founder background are all publicly available. The founder Stephen is an Australian IT professional with a verifiable 20+ year career. There is no anonymous team.",
+        "link": {
+          "label": "Read the Litepaper",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Getting Started",
+    "faqs": [
+      {
+        "id": "how-to-participate",
+        "question": "How do I participate?",
+        "answer": "Download the Zuno app on your Android or iOS device, create an account, and start completing AI validation tasks. Each completed task earns you points that convert to ZUNO tokens at Token Launch.",
+        "link": null
+      },
+      {
+        "id": "crypto-knowledge-needed",
+        "question": "Do I need to know about crypto to use Zuno?",
+        "answer": "No. You just need the Zuno app and a free Solana wallet to receive your earnings. Crypto knowledge helps but is not required to get started.",
+        "link": null
+      },
+      {
+        "id": "what-wallet-do-i-need",
+        "question": "What wallet do I need?",
+        "answer": "You need a free Solana wallet to receive your ZUNO tokens. Think of it like a bank account number for your earnings. We recommend one of three options: Cake Wallet (best for privacy), Phantom (most popular), or Solflare (has 24/7 live chat support if you get stuck).",
+        "link": {
+          "label": "Cake Wallet",
+          "url": "https://cakewallet.com"
+        }
+      },
+      {
+        "id": "what-device-do-i-need",
+        "question": "What device do I need?",
+        "answer": "Any modern Android or iOS smartphone. The Zuno app is a Progressive Web App (PWA), which means you install it directly from your browser — no App Store download required.",
+        "link": null
+      },
+      {
+        "id": "is-it-free-to-join",
+        "question": "Is it free to join?",
+        "answer": "Yes. Creating an account and completing tasks is completely free. Zuno Supporter Pass holders earn at a higher rate, but a Supporter Pass is never required to participate.",
+        "link": null
+      }
+    ]
+  },
+  {
+    "category": "Earning & Points",
+    "faqs": [
+      {
+        "id": "how-do-i-earn",
+        "question": "How do I earn?",
+        "answer": "Complete AI validation tasks in the app — you'll be shown two AI-generated answers to the same question and asked to pick the better one, or flag both as incorrect. Each completed task earns you points.",
+        "link": null
+      },
+      {
+        "id": "what-are-points-worth",
+        "question": "What are points worth?",
+        "answer": "Points convert to ZUNO tokens 1:1 at Token Launch. For example, if you have 500 points when the token launches, you will receive 500 ZUNO tokens.",
+        "link": null
+      },
+      {
+        "id": "daily-earning-limit",
+        "question": "Is there a daily earning limit?",
+        "answer": "Yes. Standard contributors can earn up to 10 ZUNO per day. Supporter Pass holders earn at a multiplied rate — for example, a 3x Supporter Pass earns up to 30 ZUNO per day — by completing the same tasks as everyone else.",
+        "link": null
+      },
+      {
+        "id": "can-i-lose-points",
+        "question": "Can I lose my points?",
+        "answer": "No. Your earned points are tied to your account and are safe as long as you participate honestly. There are no penalties for taking breaks or going offline.",
+        "link": null
+      },
+      {
+        "id": "when-do-points-convert",
+        "question": "When do my points convert to tokens?",
+        "answer": "Points convert to ZUNO tokens at Token Launch (also called TGE — Token Generation Event). This is when the ZUNO token is officially created and distributed. We will announce the date in advance across all official channels.",
+        "link": {
+          "label": "Follow us on X",
+          "url": "https://x.com/ZunoNetwork"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Supporter Pass",
+    "faqs": [
+      {
+        "id": "what-is-supporter-pass",
+        "question": "What is a Supporter Pass?",
+        "answer": "A Supporter Pass (also called a Genesis NFT) is an early supporter reward that gives you an earning multiplier on all your task rewards. It does not create passive income or guaranteed returns — you still earn through completing real tasks, just at a higher rate.",
+        "link": null
+      },
+      {
+        "id": "supporter-pass-multiplier",
+        "question": "How does the multiplier work?",
+        "answer": "Your multiplier is applied to every task you complete. A 3x Supporter Pass means you earn 3 ZUNO per task instead of 1, and your daily cap increases from 10 to 30 ZUNO. The tasks themselves are identical for everyone.",
+        "link": null
+      },
+      {
+        "id": "do-i-need-supporter-pass",
+        "question": "Do I need a Supporter Pass to earn?",
+        "answer": "No. A Supporter Pass is optional. All contributors earn ZUNO through completing tasks — a Supporter Pass simply increases the rate at which you earn.",
+        "link": null
+      }
+    ]
+  },
+  {
+    "category": "ZUNO Token",
+    "faqs": [
+      {
+        "id": "what-is-zuno-token",
+        "question": "What is the ZUNO token?",
+        "answer": "ZUNO is the native token of the Zuno Network. It rewards contributors for their work, powers the governance system, and will be tradeable on exchanges after Token Launch. It is built on the Solana blockchain.",
+        "link": {
+          "label": "Tokenomics — Litepaper",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#3-tokenomics"
+        }
+      },
+      {
+        "id": "what-blockchain",
+        "question": "What blockchain is ZUNO on?",
+        "answer": "Zuno is built on Solana, which is known for fast transactions and very low fees — making it practical for everyday rewards and on-chain activity.",
+        "link": null
+      },
+      {
+        "id": "what-is-tge",
+        "question": "What is a Token Launch (TGE)?",
+        "answer": "TGE stands for Token Generation Event — it is the moment the ZUNO token is officially created and distributed to contributors. Think of it as the day your accumulated points become real, tradeable tokens. There was no presale, no private buyers, and no team allocation — everyone enters at the same starting price.",
+        "link": {
+          "label": "Fair Launch Principles — Litepaper",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#32-fair-launch-principles"
+        }
+      },
+      {
+        "id": "when-listed-on-exchanges",
+        "question": "When will ZUNO be listed on exchanges?",
+        "answer": "No confirmed date yet. Token Launch details will be announced in advance across all official Zuno channels. Follow us to stay updated.",
+        "link": {
+          "label": "Follow us on X",
+          "url": "https://x.com/ZunoNetwork"
+        }
+      },
+      {
+        "id": "fair-launch",
+        "question": "Was there a presale or private round?",
+        "answer": "No. Zuno operates on a fair launch model — there was no presale, no private buyer allocation, and no team token allocation. Everyone enters at the same starting price at Token Launch.",
+        "link": {
+          "label": "Fair Launch Principles — Litepaper",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#32-fair-launch-principles"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Governance",
+    "faqs": [
+      {
+        "id": "what-is-governance",
+        "question": "What is governance?",
+        "answer": "Governance means ZUNO token holders get a say in how the network evolves. Simply holding ZUNO gives you voting power. You can vote on things like reward emission rates, task reward amounts, treasury spending, and protocol upgrades.",
+        "link": null
+      },
+      {
+        "id": "when-does-governance-start",
+        "question": "When does governance start?",
+        "answer": "The governance framework is introduced at Token Launch (Phase 4 of the Zuno roadmap). Voting starts off-chain using Snapshot and will move on-chain in a future phase.",
+        "link": {
+          "label": "Roadmap — Litepaper",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#7-roadmap"
+        }
+      }
+    ]
+  },
+  {
+    "category": "Trust & Privacy",
+    "faqs": [
+      {
+        "id": "is-my-data-safe",
+        "question": "Is my data safe?",
+        "answer": "Yes. Zuno only uses the information needed to run your account and distribute rewards. Your personal data is never sold. For full details, refer to the Privacy Policy.",
+        "link": {
+          "label": "Privacy Policy",
+          "url": "https://zunonetwork.com/privacy"
+        }
+      },
+      {
+        "id": "different-from-mining",
+        "question": "How is this different from crypto mining?",
+        "answer": "Unlike mining, your contribution in Zuno does genuinely useful work — you are validating AI outputs that enterprises pay for. You are not solving arbitrary computational puzzles. This makes Zuno's rewards sustainable and tied to real-world demand.",
+        "link": null
+      }
+    ]
+  },
+  {
+    "category": "Community & Support",
+    "faqs": [
+      {
+        "id": "where-to-get-help",
+        "question": "Where can I get help?",
+        "answer": "Join the Zuno Telegram community for the fastest response. You can also follow us on X (Twitter) or Reddit for announcements and discussions.",
+        "link": {
+          "label": "Join Telegram",
+          "url": "https://t.me/Zuno_Network"
+        }
+      },
+      {
+        "id": "where-to-follow",
+        "question": "Where can I follow Zuno?",
+        "answer": "You can follow Zuno across all official channels below.",
+        "links": [
+          { "label": "Website", "url": "https://zunonetwork.com" },
+          { "label": "Telegram", "url": "https://t.me/Zuno_Network" },
+          { "label": "X (Twitter)", "url": "https://x.com/ZunoNetwork" },
+          { "label": "Reddit", "url": "https://www.reddit.com/user/ZunoNetwork/" },
+          { "label": "Litepaper", "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md" }
+        ]
+      }
+    ]
+  }
+]
