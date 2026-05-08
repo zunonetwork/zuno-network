@@ -2,18 +2,28 @@
 
 **Improved AI Accuracy, Powered by People and Decentralized Compute**
 
-**The Problem: AI is smart, but it frequently makes mistakes.**
+**The Problem:** AI is smart, but it frequently makes mistakes.
 
-AI often gives answers that look correct but aren't. These "hallucinations" make it hard to rely on AI for important tasks and have liability risks. Fixing these mistakes is expensive and mostly controlled by a few large companies, leaving everyone else out of the process.
+AI often gives answers that look correct but aren't. 
+These "hallucinations" create real risks in healthcare, 
+legal, finance, and everyday decisions. Fixing them is 
+expensive and controlled by a handful of large companies 
+— leaving everyone else out of the process.
 
-**The Solution: Zuno Network**
+**The Solution:** Zuno Network
 
-Zuno Network uses a smartphone App (PWA) that runs on both Android and iOS. The app runs RLHF (Reinforcement Learning from Human Feedback), allowing people to help review and improve AI‑generated data. These are called RLHF App Workers.
+Zuno Network uses a smartphone app (Android and iOS) 
+that turns everyday people into AI trainers. By reviewing 
+AI-generated answers — a process the industry calls 
+**data labeling** — contributors help improve AI accuracy 
+and earn **Zuno tokens** on the Solana blockchain as a 
+reward for every task completed.
 
-**Earn Zuno Tokens for Contributing**
+No experience needed. No cost to join. 
+Anyone in the world can contribute and earn.
 
-When you take part, you earn Zuno tokens on the Solana blockchain as a reward for your contributions.
-
+*Zuno tokens are earned as rewards for completing tasks 
+and are not offered as a financial investment.*
 ---
 
 ## Why Zuno
