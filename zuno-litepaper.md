@@ -16,6 +16,13 @@ Improved AI Accuracy, Powered by People and Decentralized Compute
 4. [Genesis NFT Sale](#4-genesis-nft-sale)
    - [4.1 Purpose](#41-purpose)
    - [4.2 How It Works](#42-how-it-works)
+   - [4.3 Tiers](#43-tiers)
+   - [4.4 Perks by Tier](#44-perks-by-tier)
+   - [4.5 Proceeds Go to Liquidity](#45-proceeds-go-to-liquidity)
+   - [4.6 What These NFTs Are Not](#46-what-these-nfts-are-not)
+   - [4.7 Minting and Secondary Trading](#47-minting-and-secondary-trading)
+   - [4.8 Supply is Fixed](#48-supply-is-fixed)
+   - [4.9 Sale Mechanics and LP Deployment](#49-sale-mechanics-and-lp-deployment)
 5. [Reward Emissions](#5-reward-emissions)
    - [5.1 Overview](#51-overview)
    - [5.2 Reward Types](#52-reward-types)
@@ -47,11 +54,10 @@ Improved AI Accuracy, Powered by People and Decentralized Compute
 9. [Security & Transparency](#9-security--transparency)
    - [9.1 Security Principles](#91-security-principles)
    - [9.2 RLHF App Worker Security](#92-rlhf-app-worker-security)
-   - [9.3 GPU Worker Security](#93-gpu-worker-security)
-   - [9.4 Data Integrity & Consensus](#94-data-integrity--consensus)
-   - [9.5 Transparency Commitments](#95-transparency-commitments)
-   - [9.6 No Insider Advantage](#96-no-insider-advantage)
-   - [9.7 Continuous Monitoring](#97-continuous-monitoring)
+   - [9.3 Data Integrity & Consensus](#93-data-integrity--consensus)
+   - [9.4 Transparency Commitments](#94-transparency-commitments)
+   - [9.5 No Insider Advantage](#95-no-insider-advantage)
+   - [9.6 Continuous Monitoring](#96-continuous-monitoring)
 10. [Governance](#10-governance)
     - [10.1 Overview](#101-overview)
     - [10.2 What Token Holders Vote On](#102-what-token-holders-vote-on)
@@ -95,8 +101,12 @@ and are not offered as a financial investment.*
 ### 1. Distributing the Data
 Zuno Network breaks down complex AI training tasks into small, manageable pieces. These tasks are sent to the Zuno Android/IOS App so people can complete them from anywhere.
 
-### 2. Human‑Powered Refinement (RLHF)
-**RLHF App Workers use the Zuno mobile app to review two AI‑generated answers to the same question and select the most accurate one.**
+### 2. AI Data Labelling
+People using the Zuno app receive a question alongside two 
+AI-generated answers and select the most accurate one — a process 
+known as **AI data labelling**. This method, formally called 
+**Reinforcement Learning from Human Feedback (RLHF)**, is the 
+industry standard for improving AI quality through human input.
 
 ### 3. Solana‑Powered Rewards
 For every task you complete, you earn Zuno tokens on the Solana blockchain. Solana ensures rewards are fast, transparent, and easy to claim.
@@ -109,9 +119,15 @@ Your corrections help create higher‑quality training data. Over time, this pro
 
 ## 3. Tokenomics
 
-**ZUNO is a fair‑launch token on Solana with no presale, no insider allocation, and no team tokens. Every token enters circulation through real contribution — either by earning points during the pre‑mine phase (redeemed via airdrop at TGE) or by operating a GPU Worker (a home PC running the Zuno GPU container).** This ensures supply is earned through work, not financial advantage, and that early participants and long‑term contributors are rewarded fairly.
+**ZUNO is an open and inclusive community project where every token 
+enters circulation through real contribution.** This ensures supply 
+is earned through work, not financial advantage, and that early 
+participants and long-term contributors are rewarded fairly.
 
-ZUNO powers the network's incentive model, governance, and long‑term sustainability. During the pre‑mine phase, participants accumulate points by validating AI Q/A pairs through the Zuno PWA. At the Token Generating Event (TGE), points convert to ZUNO at a 1:1 ratio via airdrop. After TGE, GPU Workers earn ZUNO directly for compute contribution.
+ZUNO powers the network's incentive model, governance, and long-term 
+sustainability. During the pre-mine phase, contributors accumulate 
+points by completing AI data labelling tasks in the Zuno app. At 
+launch, these points convert to ZUNO tokens at a 1:1 ratio via airdrop.
 
 ---
 
@@ -120,12 +136,12 @@ ZUNO powers the network's incentive model, governance, and long‑term sustainab
 **Total Supply: 1,000,000,000 ZUNO**
 
 | Category | % | Notes |
-|---------|----|-------|
-| **Community Treasury (emissions)** | **69%** | RLHF App Workers + GPU Worker rewards |
-| **DEX Liquidity** | **10%** | Required for trading on DEX |
+|---|---|---|
+| **Community Treasury** | **69%** | Contributor rewards |
+| **Exchange Liquidity** | **10%** | Required for public trading |
 | **Ecosystem & Partnerships** | **10%** | Grants, integrations, enterprise onboarding |
-| **Operations & Infrastructure** | **10%** | API hosting, GPU inference costs |
-| **Founder Allocation** | **1%** | Provides sustainable runway for continued development without relying on VC or private investors. |
+| **Operations & Infrastructure** | **10%** | AI hosting and inference costs |
+| **Founder Allocation** | **1%** | Ensures full-time development |
 
 **Total: 100%**
 
@@ -144,12 +160,9 @@ independence and long‑term commitment to the community.
 
 ### 3.3 Emissions Model
 
-- Phase 0 contributors earn ZUNO for each validated Q/A task  
-- GPU Workers earn ZUNO for compute contribution  
-- Rewards are off‑chain during testnet and claimable on‑chain at mainnet  
+- Contributors earn ZUNO for each validated task  
+- Rewards are off‑chain during the pre‑mine and claimable on‑chain at mainnet  
 - Emissions follow a long‑run DePIN‑style model designed for sustainability  
-
-Zuno uses two types of contributors: **GPU Workers**, who provide compute, and **RLHF App Workers**, who use the Android app to validate AI‑generated Q/A pairs.
 
 ---
 
@@ -165,7 +178,7 @@ Zuno's economic model is designed for durability:
 ## 4. Genesis NFT Sale
 
 ### 4.1 Purpose
-The Genesis NFT Sale is a one‑time early supporter program that runs before the public pre‑mine begins. It exists for two reasons: to fund the initial Raydium liquidity pool that backs ZUNO at launch, and to reward the people who believe in the network before a single token has traded.
+The Genesis NFT Sale is a one‑time early supporter program that runs during the pre‑mine phase. It exists for two reasons: to fund the initial Raydium liquidity pool that backs ZUNO at launch, and to reward the people who believe in the network before a single token has traded.
 
 Holding a Genesis NFT is never required to use Zuno. The network is free and open to everyone — download the app and start earning. These passes exist for early supporters who want to contribute to the network's foundation and earn tokens faster while doing so.
 
@@ -174,12 +187,109 @@ Genesis NFT holders receive an earning multiplier applied to their RLHF App Work
 
 Example: A standard RLHF App Worker earns 1 ZUNO per task, with a cap of 10 ZUNO per day. A Supporter Pass holder (3× multiplier) earns 3 ZUNO per task, up to 30 ZUNO per day — by completing the same tasks as everyone else.
 
+### 4.3 Tiers
+ 
+**Total Genesis NFT supply: 160**
+ 
+| Tier | Price | Supply | Multiplier | Duration |
+| --- | --- | --- | --- | --- |
+| **Community Pass** | $20 | 100 | 2× | 6 months |
+| **Supporter Pass** | $50 | 50 | 3× | 12 months |
+| **Founder Pass** | $100 | 10 | 5× | 12 months |
+ 
+---
+ 
+### 4.4 Perks by Tier
+ 
+| Perk | Community | Supporter | Founder |
+| --- | --- | --- | --- |
+| Earning multiplier | 2× | 3× | 5× |
+| Multiplier duration | 6 months | 12 months | 12 months |
+| Daily earning (max) | 20 ZUNO | 30 ZUNO | 50 ZUNO |
+| Early PWA access | ✅ | ✅ | ✅ |
+| In‑app badge | ✅ | ✅ | ✅ |
+| Genesis contributor list | ✅ | ✅ | ✅ |
+| Priority task queue | ❌ | ✅ | ✅ |
+| Governance voting rights | ❌ | ✅ | ✅ |
+| Direct founder access (Telegram) | ❌ | ❌ | ✅ |
+| Roadmap input | ❌ | ❌ | ✅ |
+| Permanent name in Zuno litepaper | ❌ | ❌ | ✅ |
+ 
+---
+
+### 4.5 Proceeds Go to Liquidity
+ 
+**100% of Genesis NFT sale proceeds are allocated directly to the Zuno liquidity pool on Raydium.**
+ 
+No funds go to the team. No funds go to operations. Every dollar spent on a Genesis NFT becomes on‑chain liquidity that backs the ZUNO token when public trading opens.
+ 
+This is verifiable on‑chain. The sale contract address and LP deployment transaction will be published publicly before and after launch.
+ 
+---
+ 
+### 4.6 What These NFTs Are Not
+ 
+Genesis NFTs are participation passes. They are not:
+ 
+* An investment in ZUNO tokens
+* A presale or early token purchase
+* A claim on future revenue or network profits
+* A guarantee of financial return
+
+The multiplier is a reward for early contribution. ZUNO tokens are earned through real work — completing RLHF tasks in the app — not through holding an NFT.
+ 
+---
+ 
+### 4.7 Minting and Secondary Trading
+ 
+Genesis NFTs are minted directly on the Zuno website. A Solana wallet is required (Phantom, Backpack, or Solflare).
+ 
+After the genesis sale closes, NFTs will be listed on Magic Eden for secondary trading. Holders who no longer wish to hold their pass can sell it on the open market. The multiplier transfers with the NFT.
+ 
+---
+
+### 4.8 Supply is Fixed
+ 
+The 160 Genesis NFTs represent the total and final supply. There will be no second sale, no additional minting, and no team‑reserved passes. Once sold, they are gone.
+ 
+---
+
+### 4.9 Sale Mechanics and LP Deployment
+ 
+The Genesis NFT sale runs on the Zuno website. SOL proceeds accumulate in the Zuno treasury wallet throughout the sale period and are visible on‑chain at all times.
+ 
+**The sale closes when either condition is met:**
+* The SOL target of $1,000–$5,000 USD equivalent is reached, or
+* 30 days have elapsed — whichever comes first
+
+If the 30‑day deadline is reached before the SOL target, the sale closes and whatever SOL has been raised is deployed as liquidity. No funds are held back. No funds are returned.
+ 
+**LP Deployment**
+ 
+Once the sale closes, the treasury SOL is paired with 1,000,000 ZUNO from the DEX Liquidity allocation and deployed as the initial Raydium liquidity pool. LP tokens are locked for 24 months immediately after deployment.
+ 
+The 24‑month lock period covers the full pre‑mine, public trading launch, and the first phase of network growth — ensuring stable liquidity throughout Zuno's critical early stages. After the lock expires, additional liquidity can be added as the network matures.
+ 
+**On‑chain transparency**
+ 
+The following are published publicly at close:
+* Treasury wallet address
+* Total SOL raised
+* LP deployment transaction
+* LP lock transaction and expiry date
+
+This converts the "100% of NFT proceeds go to LP" commitment from a promise into a verifiable on‑chain fact.
+ 
+**Unsold NFTs**
+ 
+Any unsold Genesis NFTs at close are burned. The 160 Genesis NFTs represent the total and final supply — there will be no second sale, no re‑mint, and no team‑reserved passes.
+ 
 ---
 
 ## 5. Reward Emissions
 
 ### 5.1 Overview
-All ZUNO rewards come from the Community Treasury (999,000,000 ZUNO). Rewards are earned through real participation — RLHF tasks, GPU compute, and long‑term contribution to the network.
+All ZUNO rewards come from the Community Treasury. Rewards are earned through real participation — RLHF tasks and long‑term contribution to the network.
 
 No staking. No lockups. No guaranteed returns.
 
@@ -204,22 +314,14 @@ Rewards scale with task volume and difficulty.
 - Rewards are earned through completed RLHF tasks only
 - No rewards are given for holding, staking, or purchasing tokens
 
-**2. GPU Worker Rewards**  
-Earned for:
-- Providing compute
-- Completing inference tasks
-- Maintaining uptime and performance
-
-Rewards scale with workload and reliability.
-
-**3. Long‑Term Contribution Rewards**  
+**2. Long‑Term Contribution Rewards**  
 To recognise users who stay active over time, ZUNO includes loyalty‑based contribution bonuses:
 - No lockups  
 - No staking  
 - No financial promises  
 - No yield language  
 
-Contributors who remain consistently active (RLHF or GPU) over longer periods receive periodic bonus multipliers on task rewards. These bonuses are based purely on participation activity and do not involve staking, lockups, or passive holding.
+Contributors who remain consistently active over longer periods receive periodic bonus multipliers on task rewards. These bonuses are based purely on participation activity and do not involve staking, lockups, or passive holding.
 
 ### 5.3 Emission Structure
 ZUNO uses a task‑based emission model:
@@ -231,7 +333,7 @@ ZUNO uses a task‑based emission model:
 This extends the lifespan of the treasury and prevents over‑emission.
 
 ### 5.4 Distribution Flow
-1. A task is completed (RLHF or GPU).  
+1. A task is completed.  
 2. The system assigns a reward amount.  
 3. Loyalty multipliers apply if the contributor has a long activity streak.  
 4. Tokens are released from the Community Treasury.  
@@ -250,9 +352,9 @@ The model is designed to:
 ## 6. Pre‑Mine
 
 ### 6.1 Purpose
-The pre‑mine phase builds Zuno's initial contributor base before trading opens. Only RLHF App Workers participate during this phase by running the Zuno PWA and validating AI outputs. Contributors earn **points**, not ZUNO tokens, during this phase. Points are tracked in the Zuno backend dashboard and are not on‑chain.
+The pre‑mine phase builds Zuno's initial contributor base before trading opens. Contributors earn **points**, not ZUNO tokens, during this phase by running the Zuno PWA and completing AI data labelling tasks. Points are tracked in the Zuno backend dashboard and are not on‑chain.
 
-No sales. No insiders. No team tokens. No GPU rewards yet.
+No sales. No insiders. No team tokens.
 
 ### 6.2 Points System
 During the pre‑mine, all task contributions are recorded as points:
@@ -295,7 +397,6 @@ Once the TGE airdrop is complete, the initial Raydium liquidity pool is deployed
 
 After this point:
 - ZUNO becomes tradable
-- GPU Worker rewards activate
 - RLHF App Workers continue earning normally
 
 
@@ -335,7 +436,6 @@ No whales.
 - Points are tracked in the Zuno backend dashboard — no on‑chain activity during this phase
 - Loyalty multipliers reward consistent participation
 - Users must link a Solana‑compatible wallet in the PWA before the Snapshot Date to be eligible for the airdrop
-- GPU Worker rewards remain inactive
 - No trading, no liquidity, no token sales
 
 **Snapshot Date:** Exactly 30 days after the Zuno PWA goes live, the backend records every user's final point balance. This frozen balance determines their ZUNO allocation.
@@ -386,13 +486,12 @@ No whales.
 
 ### 7.7 Phase 5 — GPU Network Launch
 
-- GPU Worker Docker container software released publicly
+- Decentralized GPU compute layer comes online
 - Home GPUs can run the Zuno Worker container
-- GPU Workers begin receiving compute‑based ZUNO rewards
+- Compute-based ZUNO rewards activated
 - RLHF App Workers continue earning normally
 - Emissions remain task‑based and usage‑driven
-- Benchmarking and uptime scoring begin for all GPU Workers
-- Consensus validation across GPU Workers
+- Benchmarking and uptime scoring begin
 - No CPU support in this phase
 
 **Purpose:** Activate decentralized GPU compute and reward operators for providing inference power.
@@ -402,7 +501,6 @@ No whales.
 ### 7.8 Phase 6 — Post Launch Growth
 
 - Expanding RLHF App Workers
-- Onboarding GPU Workers
 - Increasing task throughput
 - Stabilising emissions
 - Growing liquidity depth
@@ -429,7 +527,7 @@ No whales.
 
 ### 7.10 Phase 8 — Global Expansion
 
-- Global GPU Worker scaling
+- Global compute scaling
 - Regional task distribution
 - Enterprise integrations expanded internationally
 - Growing liquidity depth and market presence
@@ -491,8 +589,6 @@ Zuno is designed around three core security principles:
 - Every task must be verifiable
 - Every reward must be earned through measurable work
 
-These principles apply equally to RLHF App Workers and GPU Workers.
-
 ### 9.2 RLHF App Worker Security
 The Android App uses a lightweight but strict security model:
 
@@ -503,44 +599,30 @@ The Android App uses a lightweight but strict security model:
 
 All RLHF contributions are logged, rate‑limited, and verified before rewards are issued.
 
-### 9.3 GPU Worker Security
-GPU Workers operate under a hardened API‑token system:
-
-- Each GPU Worker receives a unique API‑issued token that expires every hour
-- Workers must re‑authenticate to continue receiving tasks
-- Benchmarking and uptime scoring ensure only active, honest Workers earn rewards
-- Task‑level signatures prevent tampering with inference outputs
-- Consensus comparison detects inconsistencies between Workers and flags suspicious behaviour
-
-Only authenticated GPU Workers with valid, non‑expired tokens can participate in compute tasks.
-
-### 9.4 Data Integrity & Consensus
+### 9.3 Data Integrity & Consensus
 Zuno uses a multi‑layer validation model:
 
 - RLHF App Workers confirm accuracy of Q and A tasks
-- GPU Workers generate inference outputs
-- Consensus scoring compares outputs across multiple Workers
-- Disagreements trigger review and may reduce rewards for outlier Workers
+- Consensus scoring compares outputs across multiple contributors
+- Disagreements trigger review and may reduce rewards for outlier responses
 - All decisions are logged for auditability
 
-This ensures both human‑validated data and GPU‑generated outputs remain trustworthy.
+This ensures human‑validated data remains trustworthy.
 
-### 9.5 Transparency Commitments
+### 9.4 Transparency Commitments
 Zuno is built to be verifiable from day one.
 
 **Public Dashboards**  
 The network publishes:
 - Active RLHF App Workers
-- Active GPU Workers
 - Tasks completed per day
 - Emissions per role
 - Treasury balance and outflows
 - Consensus accuracy metrics
 
 **Open Reward Logic**  
-Reward formulas for both RLHF and GPU Workers are public, deterministic, and tied directly to:
+Reward formulas are public, deterministic, and tied directly to:
 - Validated tasks
-- Compute output
 - Uptime
 - Consensus agreement
 
@@ -548,14 +630,13 @@ No hidden multipliers. No insider boosts.
 
 **Open‑Source Components**  
 Where possible, Zuno releases:
-- The GPU Worker Docker container
 - Client‑side app logic
 - Task formatting specifications
 - Consensus scoring logic
 
 This allows independent verification of how tasks are processed and how rewards are calculated.
 
-### 9.6 No Insider Advantage
+### 9.5 No Insider Advantage
 Zuno maintains strict fairness guarantees:
 
 - No presale
@@ -564,18 +645,18 @@ Zuno maintains strict fairness guarantees:
 - No early access to rewards
 - No hidden emissions
 
-Every token in circulation is earned through real work — either RLHF validation or GPU compute.
+Every token in circulation is earned through real work — RLHF validation.
 
-### 9.7 Continuous Monitoring
+### 9.6 Continuous Monitoring
 The network continuously monitors:
 
 - Abnormal task patterns
-- Suspicious Worker behaviour
+- Suspicious behaviour
 - Repeated outlier outputs
 - API abuse attempts
 - Reward anomalies
 
-Workers or accounts that violate network rules are automatically rate‑limited or suspended.
+Accounts that violate network rules are automatically rate‑limited or suspended.
 
 ---
 
@@ -590,7 +671,6 @@ Reward rates, emission schedules, and treasury allocations are determined by com
 - Task reward emission rates
 - Daily task cap adjustments
 - Treasury spending and ecosystem grants
-- GPU Worker reward rates
 - Loyalty multiplier adjustments
 - Protocol upgrades and new features
 - Network partnership decisions
@@ -634,7 +714,7 @@ Stephen is a systems engineer and web developer with more than 20 years working 
 
 After two decades of keeping critical systems stable, the same pattern kept appearing: AI was becoming more capable, but not more reliable. Incorrect outputs were slipping into reporting, analysis, and operational workflows — creating real risks around decisions, compliance, and legal liability.
 
-Zuno Network was created to solve that problem at the foundation. By combining human validation with decentralized GPU compute, Stephen designed Zuno as a system where accuracy is verifiable, not assumed — and where every token is earned through real work.
+Zuno Network was created to solve that problem at the foundation. By combining human validation with decentralized compute, Stephen designed Zuno as a system where accuracy is verifiable, not assumed — and where every token is earned through real work.
 
 
 ---
@@ -643,9 +723,9 @@ Zuno Network was created to solve that problem at the foundation. By combining h
 
 AI hallucination isn't a theoretical problem — it's happening today in every industry that relies on automated answers. When AI gets things wrong, the impact flows directly into decisions, reporting, legal liability, compliance, and trust.
 
-Zuno Network exists to fix this at the foundation. By combining RLHF App Workers with a decentralized GPU compute layer, Zuno creates a continuous feedback loop where human judgement and compute power work together to verify accuracy at scale.
+Zuno Network exists to fix this at the foundation. By combining RLHF App Workers with a decentralized compute layer, Zuno creates a continuous feedback loop where human judgement and compute power work together to verify accuracy at scale.
 
-Anyone with an Android phone can contribute. Anyone with a GPU can strengthen the compute layer. Every token in circulation is earned through real work — not presales, not insiders, not financial advantage.
+Anyone with an Android phone can contribute. Every token in circulation is earned through real work — not presales, not insiders, not financial advantage.
 
 As the network grows, so does the quality of its output. Consensus‑verified data becomes the backbone for more reliable AI systems, and over time, forms the training ground for Zuno AI — a model built entirely on community‑validated truth.
 
@@ -670,6 +750,7 @@ Fair launch. Fair participation. A network built for accuracy, powered by people
 - Consolidated Launch Plan and Roadmap into Section 7 with phases 0–10
 - Section 8 Roadmap reduced to high‑level summary timeline
 - Security & Transparency renumbered to Section 9
+- Removed GPU Worker references from all sections except Section 8 Roadmap
 - Removed duplicate Section 3 heading
 
 **v1.0 — Original release**
