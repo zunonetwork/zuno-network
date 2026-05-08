@@ -2,26 +2,25 @@
 
 **Improved AI Accuracy, Powered by Humans**
 
-**The Problem:** AI is smart, but it frequently makes mistakes.
+**The Problem:** AI is a powerful tool — but it still makes mistakes.
 
-AI often gives answers that look correct but aren't. These 
-"hallucinations" create real risks in healthcare, legal, finance, 
-and everyday decisions. Fixing them is expensive and controlled 
-by a handful of large companies — leaving everyone else out of 
-the process.
+AI hallucinations produce incorrect answers with confidence, creating real‑world risk for businesses, governments, and users who need accuracy.
+
 
 **The Solution:** Zuno Network
 
-Zuno Network uses a smartphone app (Android and iOS) that turns 
-everyday people into AI trainers. By completing AI data labelling 
-tasks, contributors help improve AI accuracy and earn **Zuno tokens** 
-on the Solana blockchain as a reward for every task completed.
+Zuno Network uses a smartphone app (Android and iOS) 
+that turns everyday people into AI trainers. By reviewing 
+AI-generated answers — a process the industry calls 
+**data labeling** — contributors help improve AI accuracy 
+and earn **Zuno tokens** on the Solana blockchain as a 
+reward for every task completed.
 
-No experience needed. No cost to join.
+No experience needed. No cost to join. 
 Anyone in the world can contribute and earn.
 
-*Zuno tokens are earned as rewards for completing tasks and are 
-not offered as a financial investment.*
+*Zuno tokens are earned as rewards for completing tasks 
+and are not offered as a financial investment.*
 
 ---
 
