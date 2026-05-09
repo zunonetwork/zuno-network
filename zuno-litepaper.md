@@ -9,10 +9,6 @@ Improved AI Accuracy, Powered by Humans.
 1. [Introduction](#1-introduction)
 2. [How it Works](#2-how-it-works)
 3. [Tokenomics](#3-tokenomics)
-   - [3.1 Token Allocation](#31-token-allocation)
-   - [3.2 Open and Inclusive Community Project](#32-open-and-inclusive-community-project)
-   - [3.3 Emissions Model](#33-emissions-model)
-   - [3.4 Long‑Term Sustainability](#34-longterm-sustainability)
 4. [Funding & Development](#4--funding--development)
 5. [Reward Emissions](#5-reward-emissions)
    - [5.1 Overview](#51-overview)
@@ -103,61 +99,94 @@ Your input helps create higher‑quality training data. Over time,  this builds 
 
 ## 3. Tokenomics
 
-**ZUNO is an open and inclusive community project where every token 
-enters circulation through real contribution.** This ensures supply 
-is earned through work, not financial advantage, and that early 
-participants and long-term contributors are rewarded fairly.
-
-ZUNO powers the network's incentive model, governance, and long-term 
-sustainability. During the pre-mine phase, contributors accumulate 
-points by completing AI data labelling tasks in the Zuno app. At 
-launch, these points convert to ZUNO tokens at a 1:1 ratio via airdrop.
-
----
-
-### 3.1 Token Allocation
+## 3.1 Token Allocation
 
 **Total Supply: 1,000,000,000 ZUNO**
 
-| Category | % | Notes |
-|---|---|---|
-| **Community Treasury** | **69%** | Contributor rewards |
-| **Exchange Liquidity** | **10%** | Required for public trading |
-| **Ecosystem & Partnerships** | **10%** | Grants, integrations, enterprise onboarding |
-| **Operations & Infrastructure** | **10%** | AI hosting and inference costs |
-| **Founder Allocation** | **1%** | Ensures full-time development |
+| Category | % | Tokens | Vesting | Notes |
+|---|---|---|---|---|
+| **Community Treasury** | **55%** | 550,000,000 | Emitted over 4 years | Contributor task rewards |
+| **Founder & Team** | **15%** | 150,000,000 | 3 year vest, 12 month cliff | Core development team |
+| **Investors & Grants** | **15%** | 150,000,000 | 2 year vest, 6 month cliff | VC rounds, foundation grants |
+| **Ecosystem & Partnerships** | **8%** | 80,000,000 | Milestone-based release | Integrations, enterprise onboarding |
+| **Exchange Liquidity** | **5%** | 50,000,000 | Locked 24 months at launch | Required for public trading |
+| **Operations & Infrastructure** | **2%** | 20,000,000 | Quarterly release | AI hosting and inference costs |
 
 **Total: 100%**
 
 ---
 
-### 3.2 Open and Inclusive Community Project
+### Community Treasury — 55%
 
-ZUNO is an open and inclusive community project. Anyone with a smartphone 
-can participate. Simply download the app and start earning.
-
-The 1% founder allocation is intentionally small and transparent. It exists 
-solely to ensure the project can be developed full‑time, maintaining Zuno's 
-independence and long‑term commitment to the community.
+The largest allocation is reserved for the people who build the network. Community Treasury tokens are distributed exclusively as task rewards to contributors who complete AI data labelling work inside the Zuno app. No tokens from this allocation are distributed to the team, investors, or any third party. Emission follows a four-year declining schedule, with reward rates recalibrated periodically by governance to reflect network growth and task volume.
 
 ---
 
-### 3.3 Emissions Model
+### Founder & Team — 15%
 
-- Contributors earn ZUNO for each validated task
-- Rewards accumulate during the pre‑mine and are claimable on‑chain at launch
-- Emissions scale with real network activity
-- The model is designed for long‑term sustainability
+A portion of the supply is allocated to the founding team and future core hires who build and maintain the Zuno protocol. All team tokens are subject to a twelve-month cliff followed by a twenty-four month linear vest, for a total vesting period of three years. No team tokens enter circulation before the cliff expires. This structure aligns the founding team's incentives with the long-term health of the network.
 
 ---
 
-### 3.4 Long‑Term Sustainability
+### Investors & Grants — 15%
 
-Zuno's economic model is designed for durability:
+This allocation is reserved for strategic capital that supports Zuno's development and growth. It covers venture capital funding, ecosystem grants from foundation programs such as the Solana Foundation, and any future strategic investment rounds. Investor tokens are subject to a six-month cliff followed by an eighteen-month linear vest. Grant allocations are released on a milestone basis as agreed with the relevant foundation or program. All funding events of material significance will be disclosed publicly.
 
-- Enterprises pay for access to Zuno's high-value, human-rated AI datasets
-- Fees support network operations, token stability, and governance
-- Token holders participate in governance over emissions and network parameters
+---
+
+### Ecosystem & Partnerships — 8%
+
+Reserved for integrations, enterprise onboarding, and strategic partnerships that expand the reach and utility of the Zuno network. Tokens from this allocation are released on a milestone basis rather than a fixed schedule, ensuring they are deployed only in exchange for measurable network value. This includes partnerships with AI companies, data buyers, and infrastructure providers.
+
+---
+
+### Exchange Liquidity — 5%
+
+A dedicated allocation backs the initial Zuno liquidity pool on Raydium at the time of public trading launch. These tokens are paired with SOL and locked for twenty-four months from the date of deployment, providing stable on-chain liquidity throughout the network's critical early growth phase. The liquidity deployment transaction and lock expiry will be published on-chain and verifiable publicly.
+
+---
+
+### Operations & Infrastructure — 2%
+
+A small operational reserve covers the direct costs of running the Zuno network during its early stages, including AI model hosting, inference infrastructure, and network maintenance. This allocation is released on a quarterly basis and subject to public reporting. As the network matures, operational costs are expected to be covered by data revenue rather than token allocation.
+
+---
+
+## Vesting Philosophy
+
+Zuno's vesting structure is designed around a single principle: tokens should be earned, not extracted. Every allocation — whether team, investor, or ecosystem — carries a lock-up period that extends well beyond the public trading launch. This ensures that no single party can create short-term selling pressure at the expense of the network's contributors and long-term participants.
+
+| Allocation | Cliff | Vest | Total Lock-up |
+|---|---|---|---|
+| Community Treasury | None | 4 years, declining emissions | 4 years |
+| Founder & Team | 12 months | 24 months linear | 3 years |
+| Investors & Grants | 6 months | 18 months linear | 2 years |
+| Ecosystem & Partnerships | None | Milestone-based | Variable |
+| Exchange Liquidity | None | Locked 24 months | 2 years |
+| Operations & Infrastructure | None | Quarterly | Ongoing |
+
+
+---
+ 
+## 3.2 Long-Term Sustainability
+ 
+Zuno's economic model is designed for durability, grounding token value in real-world demand rather than speculation.
+ 
+**Revenue model**
+ 
+Enterprises and AI developers pay to access Zuno's human-verified datasets — labelled, rated, and validated by real contributors completing tasks in the app. As demand for high-quality AI training data grows, so does the utility and throughput of the Zuno network.
+ 
+**Fee structure**
+ 
+A portion of enterprise data access fees flows back into the network treasury. These funds support:
+ 
+- Ongoing protocol development and infrastructure costs
+- Contributor reward supplementation during early growth phases
+- Governance-approved ecosystem initiatives
+**Token emission and governance**
+ 
+ZUNO token holders participate in governance over key network parameters, including emission rates, reward weightings, and treasury deployment. As the network matures, governance transitions from founder-led to fully community-driven, ensuring long-term alignment between contributors, partners, and token holders.
+ 
 
 ---
 
