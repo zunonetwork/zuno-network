@@ -66,8 +66,8 @@
         "question": "What wallet do I need?",
         "answer": "You need a free Solana wallet to receive your ZUNO tokens. Think of it like a bank account number for your earnings. We recommend one of three options: Cake Wallet (best for privacy), Phantom (most popular), or Solflare (has 24/7 live chat support if you get stuck).",
         "link": {
-          "label": "Cake Wallet",
-          "url": "https://cakewallet.com"
+          "label": "Phantom Wallet",
+          "url": "https://phantom.com"
         }
       },
       {
@@ -122,29 +122,7 @@
       }
     ]
   },
-  {
-    "category": "Supporter Pass",
-    "faqs": [
-      {
-        "id": "what-is-supporter-pass",
-        "question": "What is a Supporter Pass?",
-        "answer": "A Supporter Pass (also called a Genesis NFT) is an early supporter reward that gives you an earning multiplier on all your task rewards. It does not create passive income or guaranteed returns — you still earn through completing real tasks, just at a higher rate.",
-        "link": null
-      },
-      {
-        "id": "supporter-pass-multiplier",
-        "question": "How does the multiplier work?",
-        "answer": "Your multiplier is applied to every task you complete. A 3x Supporter Pass means you earn 3 ZUNO per task instead of 1, and your daily cap increases from 10 to 30 ZUNO. The tasks themselves are identical for everyone.",
-        "link": null
-      },
-      {
-        "id": "do-i-need-supporter-pass",
-        "question": "Do I need a Supporter Pass to earn?",
-        "answer": "No. A Supporter Pass is optional. All contributors earn ZUNO through completing tasks — a Supporter Pass simply increases the rate at which you earn.",
-        "link": null
-      }
-    ]
-  },
+ 
   {
     "category": "ZUNO Token",
     "faqs": [
@@ -180,16 +158,8 @@
           "label": "Follow us on X",
           "url": "https://x.com/ZunoNetwork"
         }
-      },
-      {
-        "id": "fair-launch",
-        "question": "Was there a presale or private round?",
-        "answer": "No. Zuno operates on a fair launch model — there was no presale, no private buyer allocation, and no team token allocation. Everyone enters at the same starting price at Token Launch.",
-        "link": {
-          "label": "Fair Launch Principles — Litepaper",
-          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#32-fair-launch-principles"
-        }
       }
+  
     ]
   },
   {
@@ -229,6 +199,20 @@
         "question": "How is this different from crypto mining?",
         "answer": "Unlike mining, your contribution in Zuno does genuinely useful work — you are validating AI outputs that enterprises pay for. You are not solving arbitrary computational puzzles. This makes Zuno's rewards sustainable and tied to real-world demand.",
         "link": null
+      }
+    ]
+  },
+  {
+    "category": "Funding & Development",
+    "faqs": [
+      {
+        "id": "how-is-zuno-funded",
+        "question": "How is Zuno Network funded?",
+        "answer": "Zuno Network is currently self-funded through the founding team. To support continued development and network growth, Zuno is actively exploring grants from ecosystem foundations including the Solana Foundation and relevant Web3 infrastructure programs, venture capital from crypto-native investors aligned with decentralised AI and data infrastructure, and strategic partnerships with organisations that benefit from Zuno's data labelling network. Funding will be used to support core development, liquidity, and network expansion. Any material funding events will be disclosed publicly in line with Zuno's commitment to transparency.",
+        "link": {
+          "label": "Funding & Development — Litepaper",
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md#4--funding--development"
+        }
       }
     ]
   },
