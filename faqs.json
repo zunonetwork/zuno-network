@@ -8,7 +8,7 @@
         "answer": "Zuno is a decentralised network that helps improve AI accuracy. You use your phone to review AI-generated answers and earn ZUNO tokens for doing so. Think of it as getting paid to fact-check AI.",
         "link": {
           "label": "Read the Litepaper",
-          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md"
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md"
         }
       },
       {
@@ -23,7 +23,7 @@
         "answer": "Zuno was founded by Stephen, an Australian systems engineer with 20+ years of experience across Government, Telecommunications, and Healthcare IT.",
         "link": {
           "label": "About the Founder",
-          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#10-about-the-founder"
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md#10-about-the-founder"
         }
       },
       {
@@ -32,7 +32,7 @@
         "answer": "DePIN stands for Decentralised Physical Infrastructure Network. It means real people — not big tech companies — contribute their devices or time to run the network, and get rewarded with tokens in return. Zuno is a DePIN project for AI data validation.",
         "link": {
           "label": "Learn more",
-          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md"
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md"
         }
       },
       {
@@ -41,7 +41,7 @@
         "answer": "Yes. Zuno is a fully open project — the litepaper, codebase, and founder background are all publicly available. The founder Stephen is an Australian IT professional with a verifiable 20+ year career. There is no anonymous team.",
         "link": {
           "label": "Read the Litepaper",
-          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md"
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md"
         }
       }
     ]
@@ -79,7 +79,7 @@
       {
         "id": "is-it-free-to-join",
         "question": "Is it free to join?",
-        "answer": "Yes. Creating an account and completing tasks is completely free. Zuno Supporter Pass holders earn at a higher rate, but a Supporter Pass is never required to participate.",
+        "answer": "Yes. Creating an account and completing tasks is completely free. No purchase is ever required to participate.",
         "link": null
       }
     ]
@@ -102,7 +102,7 @@
       {
         "id": "daily-earning-limit",
         "question": "Is there a daily earning limit?",
-        "answer": "Yes. Standard contributors can earn up to 10 ZUNO per day. Supporter Pass holders earn at a multiplied rate — for example, a 3x Supporter Pass earns up to 30 ZUNO per day — by completing the same tasks as everyone else.",
+        "answer": "Yes. Contributors can earn up to 10 points per day during the pre-mine phase, with each point converting to 1 ZUNO token at TGE.",
         "link": null
       },
       {
@@ -132,7 +132,7 @@
         "answer": "ZUNO is the native token of the Zuno Network. It rewards contributors for their work, powers the governance system, and will be tradeable on exchanges after Token Launch. It is built on the Solana blockchain.",
         "link": {
           "label": "Tokenomics — Litepaper",
-          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#3-tokenomics"
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md#3-tokenomics"
         }
       },
       {
@@ -144,10 +144,10 @@
       {
         "id": "what-is-tge",
         "question": "What is a Token Launch (TGE)?",
-        "answer": "TGE stands for Token Generation Event — it is the moment the ZUNO token is officially created and distributed to contributors. Think of it as the day your accumulated points become real, tradeable tokens. There was no presale, no private buyers, and no team allocation — everyone enters at the same starting price.",
+        "answer": "TGE stands for Token Generation Event — it is the moment the ZUNO token is officially created and distributed to contributors. Think of it as the day your accumulated points become real, tradeable tokens. There is no presale and no private buyers — contributors enter at the same starting price.",
         "link": {
           "label": "Fair Launch Principles — Litepaper",
-          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#32-fair-launch-principles"
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md#32-fair-launch-principles"
         }
       },
       {
@@ -177,7 +177,7 @@
         "answer": "The governance framework is introduced at Token Launch (Phase 4 of the Zuno roadmap). Voting starts off-chain using Snapshot and will move on-chain in a future phase.",
         "link": {
           "label": "Roadmap — Litepaper",
-          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md#7-roadmap"
+          "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md#7-roadmap"
         }
       }
     ]
@@ -237,7 +237,7 @@
           { "label": "Telegram", "url": "https://t.me/Zuno_Network" },
           { "label": "X (Twitter)", "url": "https://x.com/ZunoNetwork" },
           { "label": "Reddit", "url": "https://www.reddit.com/user/ZunoNetwork/" },
-          { "label": "Litepaper", "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper-v1.md" }
+          { "label": "Litepaper", "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md" }
         ]
       }
     ]
