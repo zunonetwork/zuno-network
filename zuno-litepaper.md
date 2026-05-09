@@ -165,7 +165,7 @@ Zuno's economic model is designed for durability:
 
 Zuno Network is currently self-funded through the founding team. To support continued development and network growth, Zuno is actively exploring:
 
-Grants from ecosystem foundations including Solana Foundation and relevant Web3 infrastructure programs
+Grants from ecosystem foundations and Web3 infrastructure programs
 Venture capital from crypto-native investors aligned with decentralised AI and data infrastructure
 Strategic partnerships with organisations that benefit from Zuno's data labelling network
 

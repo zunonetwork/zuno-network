@@ -208,7 +208,7 @@
       {
         "id": "how-is-zuno-funded",
         "question": "How is Zuno Network funded?",
-        "answer": "Zuno Network is currently self-funded through the founding team. To support continued development and network growth, Zuno is actively exploring grants from ecosystem foundations including the Solana Foundation and relevant Web3 infrastructure programs, venture capital from crypto-native investors aligned with decentralised AI and data infrastructure, and strategic partnerships with organisations that benefit from Zuno's data labelling network. Funding will be used to support core development, liquidity, and network expansion. Any material funding events will be disclosed publicly in line with Zuno's commitment to transparency.",
+        "answer": "Zuno Network is currently self-funded through the founding team. To support continued development and network growth, Zuno is actively exploring grants from ecosystem foundations and relevant Web3 infrastructure programs, venture capital from crypto-native investors aligned with decentralised AI and data infrastructure, and strategic partnerships with organisations that benefit from Zuno's data labelling network. Funding will be used to support core development, liquidity, and network expansion. Any material funding events will be disclosed publicly in line with Zuno's commitment to transparency.",
         "link": {
           "label": "Funding & Development — Litepaper",
           "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md#4--funding--development"
