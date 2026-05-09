@@ -13,16 +13,7 @@ Improved AI Accuracy, Powered by Humans.
    - [3.2 Open and Inclusive Community Project](#32-open-and-inclusive-community-project)
    - [3.3 Emissions Model](#33-emissions-model)
    - [3.4 Long‑Term Sustainability](#34-longterm-sustainability)
-4. [Genesis NFT Sale](#4-genesis-nft-sale)
-   - [4.1 Purpose](#41-purpose)
-   - [4.2 How It Works](#42-how-it-works)
-   - [4.3 Tiers](#43-tiers)
-   - [4.4 Perks by Tier](#44-perks-by-tier)
-   - [4.5 Proceeds Go to Liquidity](#45-proceeds-go-to-liquidity)
-   - [4.6 What These NFTs Are Not](#46-what-these-nfts-are-not)
-   - [4.7 Minting and Secondary Trading](#47-minting-and-secondary-trading)
-   - [4.8 Supply is Fixed](#48-supply-is-fixed)
-   - [4.9 Sale Mechanics and LP Deployment](#49-sale-mechanics-and-lp-deployment)
+4. [Funding & Development](#4--funding--development)
 5. [Reward Emissions](#5-reward-emissions)
    - [5.1 Overview](#51-overview)
    - [5.2 Reward Types](#52-reward-types)
@@ -170,151 +161,16 @@ Zuno's economic model is designed for durability:
 
 ---
 
-## 4. Genesis NFT Sale
+## 4.  Funding & Development
 
-### 4.1 Purpose
-The Genesis NFT Sale is a one‑time early supporter program that runs 
-during the pre‑mine phase. It exists for two reasons: to fund the 
-initial Raydium liquidity pool that backs ZUNO at launch, and to reward 
-the people who believe in the network before a single token has traded.
+Zuno Network is currently self-funded through the founding team. To support continued development and network growth, Zuno is actively exploring:
 
-Holding a Genesis NFT is never required to use Zuno. The network is 
-open to everyone — download the app and start earning. These passes 
-exist for early supporters who want to contribute to the network's 
-foundation and earn tokens faster while doing so.
+Grants from ecosystem foundations including Solana Foundation and relevant Web3 infrastructure programs
+Venture capital from crypto-native investors aligned with decentralised AI and data infrastructure
+Strategic partnerships with organisations that benefit from Zuno's data labelling network
 
-### 4.2 How It Works
-Genesis NFT holders receive an earning multiplier applied to their 
-task rewards. The multiplier increases the number of ZUNO tokens earned 
-per completed task — it does not create passive income, staking rewards, 
-or any guaranteed financial return. Tokens are still earned through 
-real work in the app.
+Funding will be used to support core development, liquidity, and network expansion. Any material funding events will be disclosed publicly in line with Zuno's commitment to transparency.
 
-**Example:** A standard contributor earns 1 ZUNO per task, with a cap 
-of 10 ZUNO per day. A Genesis NFT holder (3× multiplier) earns 3 ZUNO 
-per task, up to 30 ZUNO per day — by completing the same tasks 
-as everyone else.
-
-### 4.3 Tiers
- 
-**Total Genesis NFT supply: 160**
- 
-| Tier | Price | Supply | Multiplier | Duration |
-| --- | --- | --- | --- | --- |
-| **Community Pass** | $20 | 100 | 2× | 6 months |
-| **Supporter Pass** | $50 | 50 | 3× | 12 months |
-| **Founder Pass** | $100 | 10 | 5× | 12 months |
- 
----
- 
-### 4.4 Perks by Tier
- 
-| Perk | Community | Supporter | Founder |
-| --- | --- | --- | --- |
-| Earning multiplier | 2× | 3× | 5× |
-| Multiplier duration | 6 months | 12 months | 12 months |
-| Daily earning (max) | 20 ZUNO | 30 ZUNO | 50 ZUNO |
-| Early Zuno app access | ✅ | ✅ | ✅ |
-| In‑app badge | ✅ | ✅ | ✅ |
-| Genesis contributor list | ✅ | ✅ | ✅ |
-| Priority task queue | ❌ | ✅ | ✅ |
-| Governance voting rights | ❌ | ✅ | ✅ |
-| Direct founder access (Telegram) | ❌ | ❌ | ✅ |
-| Roadmap input | ❌ | ❌ | ✅ |
-| Permanent name in Zuno litepaper | ❌ | ❌ | ✅ |
- 
----
-
-### 4.5 Proceeds Go to Liquidity
-
-**100% of Genesis NFT sale proceeds are allocated directly to the 
-Zuno liquidity pool on Raydium.**
-
-No funds go to the team. No funds go to operations. Every SOL spent 
-on a Genesis NFT becomes on‑chain liquidity that backs the ZUNO 
-token when public trading opens.
-
-This is verifiable on‑chain. The sale contract address and LP 
-deployment transaction will be published publicly before and after 
-launch.
- 
----
- 
-### 4.6 What These NFTs Are Not
-
-Genesis NFTs are participation passes. They are not:
-
-* An investment in ZUNO tokens
-* A presale or early token purchase
-* A claim on future revenue or network profits
-* A guarantee of financial return
-
-The multiplier is a reward for early contribution. ZUNO tokens are 
-earned through real work — completing AI data labelling tasks in 
-the app — not through holding an NFT.
- 
----
- 
-### 4.7 Minting and Secondary Trading
-
-Genesis NFTs are minted directly on the Zuno website. A Solana 
-wallet is required (Phantom, Backpack, or Solflare).
-
-After the genesis sale closes, NFTs will be listed on Magic Eden 
-for secondary trading. Holders who no longer wish to keep their 
-pass can sell it on the open market. The multiplier transfers 
-with the NFT.
-
----
-
-### 4.8 Supply is Fixed
-
-The 160 Genesis NFTs represent the total and final supply. There 
-will be no second sale, no additional minting, and no team‑reserved 
-passes. Once sold, they are gone.
-
- 
----
-### 4.9 Sale Mechanics and LP Deployment
-
-The Genesis NFT sale runs on the Zuno website. SOL proceeds accumulate 
-in the Zuno treasury wallet throughout the sale period and are visible 
-on‑chain at all times.
-
-**The sale closes when either condition is met:**
-* The SOL target of $1,000–$5,000 is reached, or
-* 30 days have elapsed — whichever comes first
-
-If the 30‑day deadline is reached before the SOL target, the sale 
-closes and whatever SOL has been raised is deployed as liquidity. 
-No funds are held back. No funds are returned.
-
-**LP Deployment**
-
-Once the sale closes, the treasury SOL is paired with 1,000,000 ZUNO 
-from the Exchange Liquidity allocation and deployed as the initial 
-Raydium liquidity pool. LP tokens are locked for 24 months immediately 
-after deployment.
-
-The 24‑month lock period covers the full pre‑mine, public trading 
-launch, and the first phase of network growth — ensuring stable 
-liquidity throughout Zuno's critical early stages. After the lock 
-expires, additional liquidity can be added as the network matures.
-
-**On‑chain Transparency**
-
-The following are published publicly at close:
-* Treasury wallet address
-* Total SOL raised
-* LP deployment transaction
-* LP lock transaction and expiry date
-
-This converts the "100% of NFT proceeds go to LP" commitment from 
-a promise into a verifiable on‑chain fact.
-
-**Unsold NFTs**
-
-Any unsold Genesis NFTs at close are burned.
 
 ---
 
