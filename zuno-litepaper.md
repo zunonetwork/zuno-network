@@ -84,10 +84,6 @@ and are not offered as a financial investment.*
 
 ---
 
-Here's Section 2 with the Validator Node mention inserted as a natural step in the flow:
-
----
-
 ## 2. How it Works
 
 ### 1. Distributing the Data
