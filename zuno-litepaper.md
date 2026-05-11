@@ -51,6 +51,13 @@ Improved AI Accuracy, Powered by Humans.
     - [10.5 Governance Principles](#105-governance-principles)
 11. [About the Founder](#11-about-the-founder)
 12. [Conclusion](#12-conclusion)
+13. [Validator Nodes](#13-validator-nodes)
+    - [13.1 Overview](#131-overview)
+    - [13.2 Role of Validator Nodes](#132-role-of-validator-nodes)
+    - [13.3 Node Requirements](#133-node-requirements)
+    - [13.4 Rewards](#134-rewards)
+    - [13.5 Phased Rollout](#135-phased-rollout)
+
 ---
 
 ## 1. Introduction
@@ -670,6 +677,63 @@ on Solana.
 ---
 
 *© 2026 Zuno Network. Built on Solana.*
+
+---
+
+## 13. Validator Nodes
+
+### 13.1 Overview
+
+As the Zuno Network scales, the volume of AI data labelling task responses submitted by Zuno App contributors grows significantly. To maintain data quality, prevent fraud, and establish trustworthy consensus over what constitutes a correct AI data labelling answer, Zuno will introduce a dedicated Validator Node layer.
+
+Validator Nodes are a network of decentralised node operators who run software that reviews batches of contributor task responses, scores their quality, flags suspicious submissions, and submits verdicts to the Zuno consensus engine. Validators earn ZUNO rewards for accurate, honest participation and face stake slashing for persistent outlier behaviour.
+
+---
+
+### 13.2 Role of Validator Nodes
+
+Each Validator Node receives a task bundle — a question ID together with all responses submitted for that question by contributors. The validator independently scores each response and submits a verdict before seeing the verdicts of any other validator. The consensus engine then weighs all verdicts together to determine the accepted answer.
+
+Validators serve three core functions within the network:
+
+* **Accuracy scoring** — evaluating whether submitted task responses are factually correct and of sufficient quality to enter the training dataset.
+* **Fraud detection** — identifying bot-driven, duplicate, or otherwise suspicious submissions before they corrupt the dataset.
+* **Consensus participation** — contributing to a distributed agreement mechanism that removes any single point of control over what gets labelled "correct."
+
+---
+
+### 13.3 Node Requirements
+
+To operate a Validator Node, participants must:
+
+* Stake a minimum ZUNO amount to the network — this acts as economic collateral and aligns validator incentives with honest participation.
+* Maintain a minimum uptime threshold, consistent with network reliability standards.
+* Pass an initial benchmarking round using known-answer tasks before going live. Nodes that fail benchmarking are not assigned live tasks until accuracy thresholds are met.
+
+**Task assignment:** Rather than all validators reviewing every task, Zuno pseudorandomly assigns a subset of validators (target: 5–9 nodes) per task bundle, weighted by stake size and reputation score. This ensures the system scales with task volume without bottlenecks.
+
+---
+
+### 13.4 Rewards
+
+Validator Node rewards are drawn from the Community Treasury alongside contributor task rewards. Validators earn at a higher per-task rate than contributors to compensate for the capital lockup required by staking.
+
+Validator rewards follow the same principles as all other Zuno emissions:
+
+* Rewards are earned through verifiable work — consensus participation, uptime, and accuracy.
+* No rewards are issued for passive staking alone.
+* Loyalty-based contribution bonuses apply to validators who maintain consistent participation over time, on the same terms as contributors.
+
+---
+
+### 13.5 Phased Rollout
+
+Validator Nodes are introduced at Phase 0 and Phase 1 alongside Zuno App contributors. During the pre-mine period, Validator Node operators earn points for each task bundle reviewed, on the same 1:1 conversion terms as contributors — 1 point converts to 1 ZUNO token at the Token Generation Event (TGE).
+
+**Phase 1 validator platforms:**
+* Android smartphones
+* Windows (Docker)
+* Linux (Docker)
 
 ---
 
