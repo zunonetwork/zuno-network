@@ -112,6 +112,12 @@
         "link": null
       },
       {
+        "id": "when-can-i-claim-tokens",
+        "question": "When can I claim my ZUNO tokens?",
+        "answer": "Once the pre-mine ends, there is a 30-day period before tokens are distributed. This window allows the network to verify contributions, review task quality, and ensure the integrity of the airdrop before ZUNO tokens are sent to your linked Solana wallet.",
+        "link": null
+      },
+      {
         "id": "when-do-points-convert",
         "question": "When do my points convert to tokens?",
         "answer": "Points convert to ZUNO tokens at Token Launch (also called TGE — Token Generation Event). This is when the ZUNO token is officially created and distributed. We will announce the date in advance across all official channels.",
