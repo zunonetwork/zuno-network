@@ -16,6 +16,8 @@ AI-generated answers — a process the industry calls
 and earn **Zuno tokens** on the Solana blockchain as a 
 reward for every task completed.
 
+To ensure the quality and integrity of that data, contributor submissions are reviewed by a decentralised network of **Validator Nodes** — independent operators who verify responses, reach consensus, and earn ZUNO rewards for accurate participation.
+
 No experience needed. No cost to join. 
 Anyone in the world can contribute and earn.
 
