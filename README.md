@@ -52,7 +52,7 @@ and are not offered as a financial investment.*
 
 | Category | % | Tokens | Vesting | Notes |
 |---|---|---|---|---|
-| **Community Treasury** | **55%** | 550,000,000 | Emitted over 4 years | Contributor task rewards and Validator Node operator rewards |
+| **Community Treasury** | **55%** | 550,000,000 |  Contributor task rewards and Validator Node operator rewards |
 | **Founder & Team** | **15%** | 150,000,000 | 3 year vest, 12 month cliff | Core development team |
 | **Investors & Grants** | **15%** | 150,000,000 | 2 year vest, 6 month cliff | VC rounds, foundation grants |
 | **Ecosystem & Partnerships** | **8%** | 80,000,000 | Milestone-based release | Integrations, enterprise onboarding |
