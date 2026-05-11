@@ -8,55 +8,55 @@ Improved AI Accuracy, Powered by Humans.
 
 1. [Introduction](#1-introduction)
 2. [How it Works](#2-how-it-works)
-3. [Tokenomics](#3-tokenomics)
-4. [Funding & Development](#4--funding--development)
-5. [Reward Emissions](#5-reward-emissions)
-   - [5.1 Overview](#51-overview)
-   - [5.2 Reward Types](#52-reward-types)
-   - [5.3 Emission Structure](#53-emission-structure)
-   - [5.4 Distribution Flow](#54-distribution-flow)
-   - [5.5 Sustainability](#55-sustainability)
-6. [Pre‑Mine](#6-premine)
-   - [6.1 Purpose](#61-purpose)
-   - [6.2 Points System](#62-points-system)
-   - [6.3 Wallet Linking Requirement](#63-wallet-linking-requirement)
-   - [6.4 Snapshot Date](#64-snapshot-date)
-   - [6.5 Airdrop](#65-airdrop)
-   - [6.6 Supply at Launch](#66-supply-at-launch)
-   - [6.7 Transition to Public Trading](#67-transition-to-public-trading)
-7. [Launch Plan](#7-launch-plan)
-   - [7.1 Overview](#71-overview)
-   - [7.2 Phase 0 — Private Beta Testing](#72-phase-0--private-beta-testing)
-   - [7.3 Phase 1 — Pre‑Mine](#73-phase-1--pre-mine)
-   - [7.4 Phase 2 — Community Growth](#74-phase-2--community-growth)
-   - [7.5 Phase 3 — Liquidity Launch](#75-phase-3--liquidity-launch)
-   - [7.6 Phase 4 — Token Goes Live](#76-phase-4--token-goes-live)
-   - [7.7 Phase 5 — Post Launch Growth](#77-phase-5--post-launch-growth)
-   - [7.8 Phase 6 — Enterprise & Governance](#78-phase-6--enterprise--governance)
-   - [7.9 Phase 7 — AI Infrastructure](#79-phase-7--ai-infrastructure)
-   - [7.10 Phase 8 — Zuno AI](#710-phase-8--zuno-ai)
-8. [Roadmap](#8-roadmap)
-9. [Security & Transparency](#9-security--transparency)
-   - [9.1 Security Principles](#91-security-principles)
-   - [9.2 Contributor Security](#92-contributor-security)
-   - [9.3 Data Integrity & Consensus](#93-data-integrity--consensus)
-   - [9.4 Transparency Commitments](#94-transparency-commitments)
-   - [9.5 No Insider Advantage](#95-no-insider-advantage)
-   - [9.6 Continuous Monitoring](#96-continuous-monitoring)
-10. [Governance](#10-governance)
-    - [10.1 Overview](#101-overview)
-    - [10.2 What Token Holders Vote On](#102-what-token-holders-vote-on)
-    - [10.3 How Voting Works](#103-how-voting-works)
-    - [10.4 Voting Phases](#104-voting-phases)
-    - [10.5 Governance Principles](#105-governance-principles)
-11. [About the Founder](#11-about-the-founder)
-12. [Conclusion](#12-conclusion)
-13. [Validator Nodes](#13-validator-nodes)
-    - [13.1 Overview](#131-overview)
-    - [13.2 Role of Validator Nodes](#132-role-of-validator-nodes)
-    - [13.3 Node Requirements](#133-node-requirements)
-    - [13.4 Rewards](#134-rewards)
-    - [13.5 Phased Rollout](#135-phased-rollout)
+3. [Validator Nodes](#3-validator-nodes)
+   - [3.1 Overview](#31-overview)
+   - [3.2 Role of Validator Nodes](#32-role-of-validator-nodes)
+   - [3.3 Node Requirements](#33-node-requirements)
+   - [3.4 Rewards](#34-rewards)
+   - [3.5 Phased Rollout](#35-phased-rollout)
+4. [Tokenomics](#4-tokenomics)
+5. [Funding & Development](#5--funding--development)
+6. [Reward Emissions](#6-reward-emissions)
+   - [6.1 Overview](#61-overview)
+   - [6.2 Reward Types](#62-reward-types)
+   - [6.3 Emission Structure](#63-emission-structure)
+   - [6.4 Distribution Flow](#64-distribution-flow)
+   - [6.5 Sustainability](#65-sustainability)
+7. [Pre‑Mine](#7-premine)
+   - [7.1 Purpose](#71-purpose)
+   - [7.2 Points System](#72-points-system)
+   - [7.3 Wallet Linking Requirement](#73-wallet-linking-requirement)
+   - [7.4 Snapshot Date](#74-snapshot-date)
+   - [7.5 Airdrop](#75-airdrop)
+   - [7.6 Supply at Launch](#76-supply-at-launch)
+   - [7.7 Transition to Public Trading](#77-transition-to-public-trading)
+8. [Launch Plan](#8-launch-plan)
+   - [8.1 Overview](#81-overview)
+   - [8.2 Phase 0 — Private Beta Testing](#82-phase-0--private-beta-testing)
+   - [8.3 Phase 1 — Pre‑Mine](#83-phase-1--pre-mine)
+   - [8.4 Phase 2 — Community Growth](#84-phase-2--community-growth)
+   - [8.5 Phase 3 — Liquidity Launch](#85-phase-3--liquidity-launch)
+   - [8.6 Phase 4 — Token Goes Live](#86-phase-4--token-goes-live)
+   - [8.7 Phase 5 — Post Launch Growth](#87-phase-5--post-launch-growth)
+   - [8.8 Phase 6 — Enterprise & Governance](#88-phase-6--enterprise--governance)
+   - [8.9 Phase 7 — AI Infrastructure](#89-phase-7--ai-infrastructure)
+   - [8.10 Phase 8 — Zuno AI](#810-phase-8--zuno-ai)
+9. [Roadmap](#9-roadmap)
+10. [Security & Transparency](#10-security--transparency)
+    - [10.1 Security Principles](#101-security-principles)
+    - [10.2 Contributor Security](#102-contributor-security)
+    - [10.3 Data Integrity & Consensus](#103-data-integrity--consensus)
+    - [10.4 Transparency Commitments](#104-transparency-commitments)
+    - [10.5 No Insider Advantage](#105-no-insider-advantage)
+    - [10.6 Continuous Monitoring](#106-continuous-monitoring)
+11. [Governance](#11-governance)
+    - [11.1 Overview](#111-overview)
+    - [11.2 What Token Holders Vote On](#112-what-token-holders-vote-on)
+    - [11.3 How Voting Works](#113-how-voting-works)
+    - [11.4 Voting Phases](#114-voting-phases)
+    - [11.5 Governance Principles](#115-governance-principles)
+12. [About the Founder](#12-about-the-founder)
+13. [Conclusion](#13-conclusion)
 
 ---
 
@@ -100,13 +100,70 @@ industry standard for improving AI quality through human input.
 For every task you complete, you earn Zuno tokens on the Solana blockchain. Solana ensures rewards are fast, transparent, and easy to claim.
 
 ### 4. Improved AI Accuracy Through Human Data Labelling
-Your input helps create higher‑quality training data. Over time,  this builds more accurate AI models — verified by real people,  not controlled by a single company.
+Your input helps create higher‑quality training data. Over time, this builds more accurate AI models — verified by real people, not controlled by a single company.
 
 ---
 
-## 3. Tokenomics
+## 3. Validator Nodes
 
-## 3.1 Token Allocation
+### 3.1 Overview
+
+As the Zuno Network scales, the volume of AI data labelling task responses submitted by Zuno App contributors grows significantly. To maintain data quality, prevent fraud, and establish trustworthy consensus over what constitutes a correct AI data labelling answer, Zuno will introduce a dedicated Validator Node layer.
+
+Validator Nodes are a network of decentralised node operators who run software that reviews batches of contributor task responses, scores their quality, flags suspicious submissions, and submits verdicts to the Zuno consensus engine. Validators earn ZUNO rewards for accurate, honest participation and face stake slashing for persistent outlier behaviour.
+
+---
+
+### 3.2 Role of Validator Nodes
+
+Each Validator Node receives a task bundle — a question ID together with all responses submitted for that question by contributors. The validator independently scores each response and submits a verdict before seeing the verdicts of any other validator. The consensus engine then weighs all verdicts together to determine the accepted answer.
+
+Validators serve three core functions within the network:
+
+* **Accuracy scoring** — evaluating whether submitted task responses are factually correct and of sufficient quality to enter the training dataset.
+* **Fraud detection** — identifying bot-driven, duplicate, or otherwise suspicious submissions before they corrupt the dataset.
+* **Consensus participation** — contributing to a distributed agreement mechanism that removes any single point of control over what gets labelled "correct."
+
+---
+
+### 3.3 Node Requirements
+
+To operate a Validator Node, participants must:
+
+* Stake a minimum ZUNO amount to the network — this acts as economic collateral and aligns validator incentives with honest participation.
+* Maintain a minimum uptime threshold, consistent with network reliability standards.
+* Pass an initial benchmarking round using known-answer tasks before going live. Nodes that fail benchmarking are not assigned live tasks until accuracy thresholds are met.
+
+**Task assignment:** Rather than all validators reviewing every task, Zuno pseudorandomly assigns a subset of validators (target: 5–9 nodes) per task bundle, weighted by stake size and reputation score. This ensures the system scales with task volume without bottlenecks.
+
+---
+
+### 3.4 Rewards
+
+Validator Node rewards are drawn from the Community Treasury alongside contributor task rewards. Validators earn at a higher per-task rate than contributors to compensate for the capital lockup required by staking.
+
+Validator rewards follow the same principles as all other Zuno emissions:
+
+* Rewards are earned through verifiable work — consensus participation, uptime, and accuracy.
+* No rewards are issued for passive staking alone.
+* Loyalty-based contribution bonuses apply to validators who maintain consistent participation over time, on the same terms as contributors.
+
+---
+
+### 3.5 Phased Rollout
+
+Validator Nodes are introduced at Phase 0 and Phase 1 alongside Zuno App contributors. During the pre-mine period, Validator Node operators earn points for each task bundle reviewed, on the same 1:1 conversion terms as contributors — 1 point converts to 1 ZUNO token at the Token Generation Event (TGE).
+
+**Phase 1 validator platforms:**
+* Android smartphones
+* Windows (Docker)
+* Linux (Docker)
+
+---
+
+## 4. Tokenomics
+
+### 4.1 Token Allocation
 
 **Total Supply: 1,000,000,000 ZUNO**
 
@@ -174,30 +231,31 @@ Zuno's vesting structure is designed around a single principle: tokens should be
 
 
 ---
- 
-## 3.2 Long-Term Sustainability
- 
+
+### 4.2 Long-Term Sustainability
+
 Zuno's economic model is designed for durability, grounding token value in real-world demand rather than speculation.
- 
+
 **Revenue model**
- 
+
 Enterprises and AI developers pay to access Zuno's human-verified datasets — labelled, rated, and validated by real contributors completing tasks in the app. As demand for high-quality AI training data grows, so does the utility and throughput of the Zuno network.
- 
+
 **Fee structure**
- 
+
 A portion of enterprise data access fees flows back into the network treasury. These funds support:
- 
+
 - Ongoing protocol development and infrastructure costs
 - Contributor reward supplementation during early growth phases
 - Governance-approved ecosystem initiatives
+
 **Token emission and governance**
- 
+
 ZUNO token holders participate in governance over key network parameters, including emission rates, reward weightings, and treasury deployment. As the network matures, governance transitions from founder-led to fully community-driven, ensuring long-term alignment between contributors, partners, and token holders.
- 
+
 
 ---
 
-## 4.  Funding & Development
+## 5.  Funding & Development
 
 Zuno Network is currently self-funded through the founding team. To support continued development and network growth, Zuno is actively exploring:
 
@@ -210,16 +268,16 @@ Funding will be used to support core development, liquidity, and network expansi
 
 ---
 
-## 5. Reward Emissions
+## 6. Reward Emissions
 
-### 5.1 Overview
+### 6.1 Overview
 All ZUNO rewards come from the Community Treasury. Rewards are earned 
 through real participation — completing AI data labelling tasks and 
 long‑term contribution to the network.
 
 No staking. No lockups. No guaranteed returns.
 
-### 5.2 Reward Types
+### 6.2 Reward Types
 
 **1. Task Rewards**
 Earned for completing AI data labelling tasks:
@@ -247,7 +305,7 @@ are based purely on participation activity and do not involve
 staking, lockups, or passive holding.
 
 
-### 5.3 Emission Structure
+### 6.3 Emission Structure
 
 ZUNO uses a task‑based emission model:
 - Rewards are issued per completed task
@@ -257,14 +315,14 @@ ZUNO uses a task‑based emission model:
 
 This extends the lifespan of the treasury and prevents over‑emission.
 
-### 5.4 Distribution Flow
+### 6.4 Distribution Flow
 1. A task is completed.  
 2. The system assigns a reward amount.  
 3. Loyalty multipliers apply if the contributor has a long activity streak.  
 4. Tokens are released from the Community Treasury.  
 5. The contributor claims them on‑chain.
 
-### 5.5 Sustainability
+### 6.5 Sustainability
 The model is designed to:
 - Reward early contributors  
 - Scale with network demand  
@@ -274,15 +332,15 @@ The model is designed to:
 
 ---
 
-## 6. Pre‑Mine
+## 7. Pre‑Mine
 
-### 6.1 Purpose
+### 7.1 Purpose
 The pre‑mine phase builds Zuno's initial contributor base before 
 trading opens. Contributors earn **points** during this phase by 
 completing AI data labelling tasks in the Zuno app. Points are 
 tracked in the Zuno backend dashboard and are not on‑chain.
 
-### 6.2 Points System
+### 7.2 Points System
 During the pre‑mine, all task contributions are recorded as points:
 
 - **1 task completed = 1 point**
@@ -290,14 +348,14 @@ During the pre‑mine, all task contributions are recorded as points:
 - Points are not on‑chain and no ZUNO tokens are distributed 
   during this phase
 
-### 6.3 Wallet Linking Requirement
+### 7.3 Wallet Linking Requirement
 To be eligible for the airdrop, contributors must link a valid 
 Solana‑compatible wallet in the Zuno app before the snapshot date. 
 The snapshot date is the deadline after which no new wallets can 
 be linked for airdrop eligibility. Contributors who do not link 
 a wallet before this date will not receive the airdrop.
 
-### 6.4 Snapshot Date
+### 7.4 Snapshot Date
 The snapshot date is the fixed date exactly 30 days after the Zuno 
 app goes live. On this date, the Zuno backend records every 
 contributor's final point balance. This frozen balance becomes their 
@@ -306,7 +364,7 @@ snapshot date count toward the initial airdrop. Contributors must
 have linked a valid Solana‑compatible wallet in the Zuno app before 
 the snapshot date to be eligible to receive tokens.
 
-### 6.5 Airdrop
+### 7.5 Airdrop
 After the snapshot date, ZUNO tokens are distributed to all eligible 
 wallets at a 1:1 ratio — **1 point = 1 ZUNO token.**
 
@@ -318,14 +376,14 @@ wallets at a 1:1 ratio — **1 point = 1 ZUNO token.**
   real task contribution
 
 
-### 6.6 Supply at Launch
+### 7.6 Supply at Launch
 Only ZUNO distributed via the launch airdrop becomes the initial 
 circulating supply. Every token in circulation is earned through 
 real contribution — completing AI data labelling tasks in the Zuno app.
 
 Everyone enters at the same starting price when liquidity goes live.
 
-### 6.7 Transition to Public Trading
+### 7.7 Transition to Public Trading
 Once the launch airdrop is complete, the initial Raydium liquidity 
 pool is deployed:
 
@@ -339,16 +397,17 @@ After this point:
 
 ---
 
-## 7. Launch Plan
+## 8. Launch Plan
 
-### 7.1 Overview
+### 8.1 Overview
 Zuno launches through a staged, transparent rollout designed for 
 fairness, stability, and real network participation. Every token 
 in circulation is earned through real contribution — not purchased, 
 allocated, or reserved in advance.
+
 ---
 
-### 7.2 Phase 0 — Private Beta Testing
+### 8.2 Phase 0 — Private Beta Testing
 
 - Zuno app tested privately with a small group
 - Contributor workflow validated end‑to‑end
@@ -364,7 +423,7 @@ are stable before the pre‑mine begins.
 
 ---
 
-### 7.3 Phase 1 — Pre‑Mine (Zuno Points Earning Period)
+### 8.3 Phase 1 — Pre‑Mine (Zuno Points Earning Period)
 
 - Contributors download the Zuno app
 - Complete AI data labelling tasks and earn **points** (not ZUNO tokens)
@@ -390,7 +449,7 @@ initial circulating supply through real task contribution.
 
 ---
 
-### 7.4 Phase 2 — Community Growth
+### 8.4 Phase 2 — Community Growth
 
 - Contributor count grows throughout the pre‑mine period
 - Task throughput increases
@@ -403,7 +462,7 @@ initial circulating supply through real task contribution.
 
 ---
 
-### 7.5 Phase 3 — Liquidity Launch
+### 8.5 Phase 3 — Liquidity Launch
 
 - Deploy Raydium liquidity pool
 - Pair **1,000,000 ZUNO** with **$1,000–$10,000 SOL**
@@ -414,7 +473,7 @@ initial circulating supply through real task contribution.
 
 ---
 
-### 7.6 Phase 4 — Token Goes Live
+### 8.6 Phase 4 — Token Goes Live
 
 - ZUNO becomes tradable
 - Pre‑mine tokens enter circulation via the launch airdrop
@@ -428,7 +487,7 @@ on‑chain operations.
 
 ---
 
-### 7.7 Phase 5 — Post Launch Growth
+### 8.7 Phase 5 — Post Launch Growth
 
 - Expanding contributor base
 - Increasing task throughput
@@ -441,7 +500,7 @@ on‑chain operations.
 
 ---
 
-### 7.8 Phase 6 — Enterprise & Governance
+### 8.8 Phase 6 — Enterprise & Governance
 
 - Public enterprise API access matures
 - Dataset licensing and enterprise‑grade API tiers introduced
@@ -455,8 +514,7 @@ fully to the community.
 
 ---
 
-
-### 7.9 Phase 7 — AI Infrastructure
+### 8.9 Phase 7 — AI Infrastructure
 
 - Hybrid cloud architecture
 - Dedicated Zuno inference clusters
@@ -466,9 +524,10 @@ fully to the community.
 
 **Purpose:** Build a scalable AI infrastructure powered by 
 community-validated data.
+
 ---
 
-### 7.10 Phase 8 — Zuno AI
+### 8.10 Phase 8 — Zuno AI
 
 - Zuno's own AI model trained on community‑verified datasets
 - Fine‑tuning via open‑source model families
@@ -481,10 +540,10 @@ community‑validated data.
 
 ---
 
-## 8. Roadmap
+## 9. Roadmap
 
 The table below provides a high‑level summary of the Zuno Network 
-phase sequence. Full detail for each phase is in Section 7 — Launch Plan.
+phase sequence. Full detail for each phase is in Section 8 — Launch Plan.
 
 | Phase | Name | Key Milestone |
 |---|---|---|
@@ -501,16 +560,16 @@ phase sequence. Full detail for each phase is in Section 7 — Launch Plan.
 
 ---
 
-## 9. Security & Transparency
+## 10. Security & Transparency
 
-### 9.1 Security Principles
+### 10.1 Security Principles
 Zuno is designed around three core security principles:
 
 - Every client must be authenticated
 - Every task must be verifiable
 - Every reward must be earned through measurable work
 
-### 9.2 Contributor Security
+### 10.2 Contributor Security
 The Zuno app uses a lightweight but strict security model:
 
 - Per‑session authentication ensures each contributor session is unique
@@ -523,7 +582,7 @@ The Zuno app uses a lightweight but strict security model:
 All contributions are logged, rate‑limited, and verified before 
 rewards are issued.
 
-### 9.3 Data Integrity & Consensus
+### 10.3 Data Integrity & Consensus
 Zuno uses a multi‑layer validation model:
 
 - Contributors confirm the accuracy of AI data labelling tasks
@@ -534,7 +593,7 @@ Zuno uses a multi‑layer validation model:
 This ensures human‑validated data remains trustworthy.
 
 
-### 9.4 Transparency Commitments
+### 10.4 Transparency Commitments
 Zuno is built to be verifiable from day one.
 
 **Public Dashboards**
@@ -561,13 +620,13 @@ Where possible, Zuno releases:
 This allows independent verification of how tasks are processed 
 and how rewards are calculated.
 
-### 9.5 No Insider Advantage
+### 10.5 No Insider Advantage
 
 Every token in circulation is earned through real work — completing 
 AI data labelling tasks in the Zuno app. No hidden emissions, no 
 early access to rewards, and no insider boosts of any kind.
 
-### 9.6 Continuous Monitoring
+### 10.6 Continuous Monitoring
 The network continuously monitors:
 
 - Abnormal task patterns
@@ -580,9 +639,9 @@ Accounts that violate network rules are automatically rate‑limited or suspende
 
 ---
 
-## 10. Governance
+## 11. Governance
 
-### 10.1 Overview
+### 11.1 Overview
 ZUNO tokens grant holders governance rights over the Zuno Network. 
 Every ZUNO token equals one vote. The more ZUNO a holder has earned 
 through contributions, the greater their say in how the network 
@@ -592,7 +651,7 @@ as it grows.
 Reward rates, emission schedules, and treasury allocations are 
 determined by community governance vote, not by the founding team.
 
-### 10.2 What Token Holders Vote On
+### 11.2 What Token Holders Vote On
 - Task reward emission rates
 - Daily task cap adjustments
 - Treasury spending and ecosystem grants
@@ -600,7 +659,7 @@ determined by community governance vote, not by the founding team.
 - Protocol upgrades and new features
 - Network partnership decisions
 
-### 10.3 How Voting Works
+### 11.3 How Voting Works
 - 1 ZUNO = 1 vote
 - Simply holding ZUNO in your wallet gives you voting power
 - No staking or lockups required to participate
@@ -623,7 +682,7 @@ To vote:
 Voting periods run for a fixed duration announced in advance via 
 official Zuno channels.
 
-### 10.4 Voting Phases
+### 11.4 Voting Phases
 - **Phase 1** — Off‑chain voting via Snapshot. Votes are recorded 
   transparently but executed by the Zuno team. This keeps things 
   simple and cost‑free during early network growth.
@@ -631,7 +690,7 @@ official Zuno channels.
   are executed automatically via smart contracts with no founder 
   intervention required.
 
-### 10.5 Governance Principles
+### 11.5 Governance Principles
 - No founder veto
 - All proposals and results are publicly visible
 - Voting periods run for a fixed duration announced in advance
@@ -640,7 +699,7 @@ official Zuno channels.
 
 ---
 
-## 11. About the Founder
+## 12. About the Founder
 
 Stephen Tracey is a systems engineer and web developer with more than 20 years working across Government, Telecommunications and Healthcare — sectors where reliability, risk mitigation, data integrity and uptime are non‑negotiable. His background spans MSP ownership, enterprise IT management, ERP implementation, and hands‑on infrastructure work across some of Australia's most demanding environments.
 
@@ -651,7 +710,7 @@ Zuno Network was created to solve that problem at the foundation. By combining h
 
 ---
 
-## 12. Conclusion
+## 13. Conclusion
 
 AI hallucination isn't a theoretical problem — it's happening today 
 in every industry that relies on automated answers. When AI gets 
@@ -677,63 +736,6 @@ on Solana.
 ---
 
 *© 2026 Zuno Network. Built on Solana.*
-
----
-
-## 13. Validator Nodes
-
-### 13.1 Overview
-
-As the Zuno Network scales, the volume of AI data labelling task responses submitted by Zuno App contributors grows significantly. To maintain data quality, prevent fraud, and establish trustworthy consensus over what constitutes a correct AI data labelling answer, Zuno will introduce a dedicated Validator Node layer.
-
-Validator Nodes are a network of decentralised node operators who run software that reviews batches of contributor task responses, scores their quality, flags suspicious submissions, and submits verdicts to the Zuno consensus engine. Validators earn ZUNO rewards for accurate, honest participation and face stake slashing for persistent outlier behaviour.
-
----
-
-### 13.2 Role of Validator Nodes
-
-Each Validator Node receives a task bundle — a question ID together with all responses submitted for that question by contributors. The validator independently scores each response and submits a verdict before seeing the verdicts of any other validator. The consensus engine then weighs all verdicts together to determine the accepted answer.
-
-Validators serve three core functions within the network:
-
-* **Accuracy scoring** — evaluating whether submitted task responses are factually correct and of sufficient quality to enter the training dataset.
-* **Fraud detection** — identifying bot-driven, duplicate, or otherwise suspicious submissions before they corrupt the dataset.
-* **Consensus participation** — contributing to a distributed agreement mechanism that removes any single point of control over what gets labelled "correct."
-
----
-
-### 13.3 Node Requirements
-
-To operate a Validator Node, participants must:
-
-* Stake a minimum ZUNO amount to the network — this acts as economic collateral and aligns validator incentives with honest participation.
-* Maintain a minimum uptime threshold, consistent with network reliability standards.
-* Pass an initial benchmarking round using known-answer tasks before going live. Nodes that fail benchmarking are not assigned live tasks until accuracy thresholds are met.
-
-**Task assignment:** Rather than all validators reviewing every task, Zuno pseudorandomly assigns a subset of validators (target: 5–9 nodes) per task bundle, weighted by stake size and reputation score. This ensures the system scales with task volume without bottlenecks.
-
----
-
-### 13.4 Rewards
-
-Validator Node rewards are drawn from the Community Treasury alongside contributor task rewards. Validators earn at a higher per-task rate than contributors to compensate for the capital lockup required by staking.
-
-Validator rewards follow the same principles as all other Zuno emissions:
-
-* Rewards are earned through verifiable work — consensus participation, uptime, and accuracy.
-* No rewards are issued for passive staking alone.
-* Loyalty-based contribution bonuses apply to validators who maintain consistent participation over time, on the same terms as contributors.
-
----
-
-### 13.5 Phased Rollout
-
-Validator Nodes are introduced at Phase 0 and Phase 1 alongside Zuno App contributors. During the pre-mine period, Validator Node operators earn points for each task bundle reviewed, on the same 1:1 conversion terms as contributors — 1 point converts to 1 ZUNO token at the Token Generation Event (TGE).
-
-**Phase 1 validator platforms:**
-* Android smartphones
-* Windows (Docker)
-* Linux (Docker)
 
 ---
 
