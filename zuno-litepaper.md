@@ -1,6 +1,6 @@
 # Zuno Network — Litepaper v1.0
 
-Improved AI Accuracy, Powered by Humans.
+Improved AI Accuracy, Powered by Humans and Decentralized Compute
 
 ---
 
@@ -84,22 +84,25 @@ and are not offered as a financial investment.*
 
 ---
 
+Here's Section 2 with the Validator Node mention inserted as a natural step in the flow:
+
+---
+
 ## 2. How it Works
 
 ### 1. Distributing the Data
-Zuno Network breaks down complex AI training tasks into small, manageable pieces. These tasks are sent to the Zuno Android/IOS App so people can complete them from anywhere.
+Zuno Network breaks down complex AI training tasks into small, manageable pieces. These tasks are sent to the Zuno Android/iOS App so people can complete them from anywhere.
 
 ### 2. AI Data Labelling
-People using the Zuno app receive a question alongside two 
-AI-generated answers and select the most accurate one — a process 
-known as **AI data labelling**. This method, formally called 
-**Reinforcement Learning from Human Feedback (RLHF)**, is the 
-industry standard for improving AI quality through human input.
+People using the Zuno app receive a question alongside two AI-generated answers and select the most accurate one — a process known as **AI data labelling**. This method, formally called **Reinforcement Learning from Human Feedback (RLHF)**, is the industry standard for improving AI quality through human input.
 
-### 3. Solana‑Powered Rewards
-For every task you complete, you earn Zuno tokens on the Solana blockchain. Solana ensures rewards are fast, transparent, and easy to claim.
+### 3. Validator Nodes
+Once contributors submit their answers, a decentralised network of Validator Nodes reviews the responses. Validators score answer quality, flag suspicious submissions, and reach consensus on the correct result — ensuring only verified, high-quality data enters the training dataset. Validators earn ZUNO rewards for accurate participation, on the same terms as contributors.
 
-### 4. Improved AI Accuracy Through Human Data Labelling
+### 4. Solana‑Powered Rewards
+For every task completed — whether as a contributor or a Validator Node operator — you earn Zuno tokens on the Solana blockchain. Solana ensures rewards are fast, transparent, and easy to claim.
+
+### 5. Improved AI Accuracy Through Human Data Labelling
 Your input helps create higher‑quality training data. Over time, this builds more accurate AI models — verified by real people, not controlled by a single company.
 
 ---
@@ -169,7 +172,7 @@ Validator Nodes are introduced at Phase 0 and Phase 1 alongside Zuno App contrib
 
 | Category | % | Tokens | Vesting | Notes |
 |---|---|---|---|---|
-| **Community Treasury** | **55%** | 550,000,000 | Emitted over 4 years | Contributor task rewards |
+| **Community Treasury** | **55%** | 550,000,000 | Contributor task rewards and Validator Node operator rewards |
 | **Founder & Team** | **15%** | 150,000,000 | 3 year vest, 12 month cliff | Core development team |
 | **Investors & Grants** | **15%** | 150,000,000 | 2 year vest, 6 month cliff | VC rounds, foundation grants |
 | **Ecosystem & Partnerships** | **8%** | 80,000,000 | Milestone-based release | Integrations, enterprise onboarding |
