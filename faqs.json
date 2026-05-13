@@ -38,8 +38,9 @@
       {
         "id": "is-zuno-legit",
         "question": "Is Zuno legitimate?",
-        "answer": "Yes. Zuno is a fully open project — the litepaper, codebase, and founder background are all publicly available. The founder Stephen is an Australian IT professional with a verifiable 20+ year career. There is no anonymous team.",
-        "link": {
+          "answer": "Yes. Zuno is a transparent project with a publicly available litepaper and verifiable founder background. The founder, Stephen Tracey, is an Australian IT professional with 20+ years of experience. The project is not run by an anonymous team.",
+
+         "link": {
           "label": "Read the Litepaper",
           "url": "https://github.com/zunonetwork/zuno-network/blob/main/zuno-litepaper.md"
         }

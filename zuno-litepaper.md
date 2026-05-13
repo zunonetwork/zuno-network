@@ -515,16 +515,17 @@ fully to the community.
 
 ---
 
-### 8.9 Phase 7 — AI Infrastructure
+### 8.9 Phase 7 — AI Infrastructure Roadmap
 
-- Hybrid cloud architecture
-- Dedicated Zuno inference clusters
-- High‑volume enterprise workloads
-- Model‑agnostic compute layer for open‑source LLMs
-- Zuno AI Enterprise Data Centre
+- Hybrid sovereign cloud architecture  
+- Dedicated Zuno inference clusters  
+- High-volume enterprise AI workloads  
+- Model-agnostic compute layer for open-source LLMs  
+- Zuno Federated AI Infrastructure  
+- Geo-distributed sovereign AI infrastructure with regional encrypted GPU clusters for low-latency private inference and RAG workloads  
+- Federated AI compute mesh with city-based encrypted GPU nodes orchestrated into scalable low-latency AI edge clusters  
 
-**Purpose:** Build a scalable AI infrastructure powered by 
-community-validated data.
+**Purpose:** Build scalable AI infrastructure powered by community-validated data, optimized for secure enterprise AI, private inference, and future sovereign AI workloads.
 
 ---
 
@@ -555,7 +556,7 @@ phase sequence. Full detail for each phase is in Section 8 — Launch Plan.
 | Phase 4 | Token Goes Live | ZUNO tradable, on‑chain rewards, governance introduced |
 | Phase 5 | Post Launch Growth | Network stabilised, dashboards live, liquidity deepens |
 | Phase 6 | Enterprise & Governance | Enterprise API, SDK, on‑chain governance |
-| Phase 7 | AI Infrastructure | Hybrid cloud architecture, enterprise clusters |
+| Phase 7 | AI Infrastructure | Federated sovereign AI infrastructure, encrypted regional GPU clusters, enterprise inference and RAG workloads |
 | Phase 8 | Zuno AI | Community‑trained AI model released |
 
 
