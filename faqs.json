@@ -206,6 +206,12 @@
         "question": "How is this different from crypto mining?",
         "answer": "Unlike mining, your contribution in Zuno does genuinely useful work — you are validating AI outputs that enterprises pay for. You are not solving arbitrary computational puzzles. This makes Zuno's rewards sustainable and tied to real-world demand.",
         "link": null
+      },
+      {
+        "id": "one-account-per-user",
+        "question": "Can I create multiple accounts?",
+        "answer": "No. Each person is permitted one account only. Duplicate accounts, automated bots, and scripted submissions are prohibited and will not earn rewards. Zuno's Validator Node layer is designed to detect and exclude low-quality or suspicious activity before the airdrop is distributed.",
+        "link": null
       }
     ]
   },
