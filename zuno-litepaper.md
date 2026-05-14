@@ -1,6 +1,6 @@
 # Zuno Network — Litepaper v1.0
 
-Improved AI Accuracy, Powered by Humans and Decentralized Compute
+Improved AI Accuracy, Powered by Humans
 
 AI Data Labeling • Expert-Validated RAG • Decentralized Compute
 
