@@ -2,12 +2,16 @@
 
 **Improved AI Accuracy, Powered by Humans and Decentralized Compute**
 
+AI Data Labeling • Expert-Validated RAG • Decentralized Compute
+
 **The Problem:** AI is a powerful tool — but it still makes mistakes.
 
 AI hallucinations produce incorrect answers with confidence, creating real‑world risk for businesses, governments, and users who need accuracy.
 
 
 **The Solution:** Zuno Network
+
+Zuno Network supports Expert-Validated RAG (Retrieval-Augmented Generation) workflows, where domain experts help validate AI-generated responses against trusted knowledge sources. This enables safer and more accurate AI systems for industries such as healthcare, legal, finance, and enterprise support.
 
 Zuno Network uses a smartphone app (Android and iOS) 
 that turns everyday people into AI trainers. By reviewing 
