@@ -1,6 +1,6 @@
 # Zuno Network
 
-**Improved AI Accuracy, Powered by Humans**
+**Improved AI Accuracy**
 
 AI Data Labeling • Expert-Validated RAG • Decentralized Compute
 
